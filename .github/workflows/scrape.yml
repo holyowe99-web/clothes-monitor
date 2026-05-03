@@ -1,0 +1,34 @@
+name: Auto_Scraper
+
+# 設定觸發條件
+on:
+  schedule:
+    - cron: '0 * * * *' # 每一小時(第0分鐘)自動執行一次
+  workflow_dispatch:      # 讓妳可以在介面上點擊「手動執行」
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 複製專案代碼
+        uses: actions/checkout@v3
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 安裝必要套件
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: 執行爬蟲腳本
+        run: python scraper.py
+
+      - name: 將抓到的資料存回 GitHub
+        run: |
+          git config --global user.name "AutoBot"
+          git config --global user.email "bot@github.com"
+          git add data.json
+          git commit -m "自動更新價格數據 [$(date)]" || exit 0
+          git push
