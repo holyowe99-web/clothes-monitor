@@ -25,9 +25,25 @@
     },
     {
         "store": "Slowand",
+        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
+        "price": 947,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
+        "price": 688,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202604/934994e80cfaa6c9ba44ef825b60e70c.webp",
+        "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【免運費】。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
         "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/26281f0d5c4451d950fd46a43996b309.webp",
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
         "url": "https://m.tw.slowand.com/product/免運費清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
@@ -41,26 +57,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
-        "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【最佳補貨】Shells 復古夏季開襟衫 - 3 種顏色",
         "price": 1000,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/7c8bb90b80556df3b04b9137973333af.webp",
         "url": "https://m.tw.slowand.com/product/最佳補貨shells-復古夏季開襟衫-3-種顏色/8458/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
-        "price": 688,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202604/934994e80cfaa6c9ba44ef825b60e70c.webp",
-        "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -75,7 +75,7 @@
         "store": "Slowand",
         "name": "【最佳補貨/免運費】Made. 夏季酷炫連帽紐扣開襟衫 - 3 種顏色",
         "price": 709,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/f3bd7f3235b2b21211d024e0f1abc3cb.webp",
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/74e8e23b5d690867f99f1ecf6d9a6e3d.gif",
         "url": "https://m.tw.slowand.com/product/最佳補貨免運費made-夏季酷炫連帽紐扣開襟衫-3-種顏色/6562/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
@@ -115,7 +115,7 @@
         "store": "Slowand",
         "name": "【最佳補貨/免運費】Made. 夏季酷炫連帽紐扣開襟衫 - 3 種顏色",
         "price": 709,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/f3bd7f3235b2b21211d024e0f1abc3cb.webp",
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/74e8e23b5d690867f99f1ecf6d9a6e3d.gif",
         "url": "https://m.tw.slowand.com/product/最佳補貨免運費made-夏季酷炫連帽紐扣開襟衫-3-種顏色/6562/category/24/display/1/",
         "is_new": true
     },
@@ -145,6 +145,30 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費】Breeze Wellmade 半身野戰夾克",
+        "price": 1571,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/7cb1e74f19e572b15673d9ac3abff9f1.webp",
+        "url": "https://m.tw.slowand.com/product/免運費breeze-wellmade-半身野戰夾克/10464/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
+        "price": 619,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
+        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
+        "price": 947,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【當日送達🚚/免運費】College Modern 簡約皮革短版外套 - 2 種顏色",
         "price": 1902,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202601/d55c998e00047df509ed0c9773a4622c.webp",
@@ -153,10 +177,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【特惠活動】基本款輕薄夏季開襟衫 - 2 款",
-        "price": 616,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/912abbfeb8d930121ecad71e7de0f89d.webp",
-        "url": "https://m.tw.slowand.com/product/特惠活動基本款輕薄夏季開襟衫-2-款/9583/category/24/display/1/",
+        "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
+        "price": 688,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202604/934994e80cfaa6c9ba44ef825b60e70c.webp",
+        "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/1/",
         "is_new": true
     },
     {
@@ -165,14 +189,6 @@
         "price": 1424,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c903e66fb6d3bd587a51e0e7d5f2868a.webp",
         "url": "https://m.tw.slowand.com/product/開業特惠免運費city-detail-up-洗車連身衣-3-種顏色/10476/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Breeze Wellmade 半身野戰夾克",
-        "price": 1571,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/7cb1e74f19e572b15673d9ac3abff9f1.webp",
-        "url": "https://m.tw.slowand.com/product/免運費breeze-wellmade-半身野戰夾克/10464/category/24/display/1/",
         "is_new": true
     },
     {
@@ -187,7 +203,7 @@
         "store": "Slowand",
         "name": "【免運費】。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
         "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/26281f0d5c4451d950fd46a43996b309.webp",
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
         "url": "https://m.tw.slowand.com/product/免運費清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/1/",
         "is_new": true
     },
@@ -205,14 +221,6 @@
         "price": 2024,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 619,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 854,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/5c7c659cbc5b00f236ff8c03aeb5f69c.webp",
         "url": "https://m.tw.slowand.com/product/免運費絲質混紡僅限-flynn-精緻修身輕薄開襟衫-5-種顏色可選（當日送達🚚）/10287/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
-        "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/1/",
         "is_new": true
     }
 ]
