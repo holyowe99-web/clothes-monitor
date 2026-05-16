@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
-        "price": 571,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】Breeze Wellmade 半身野戰夾克",
         "price": 1571,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/7cb1e74f19e572b15673d9ac3abff9f1.webp",
@@ -21,6 +13,14 @@
         "price": 947,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
+        "price": 571,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
