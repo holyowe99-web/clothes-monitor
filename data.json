@@ -9,14 +9,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【最佳補貨/免運費】純色修身夏季開襟衫 - 6種顏色可選",
-        "price": 854,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/e41739239b685bf199bc0514bad435d2.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費純色修身夏季開襟衫-6種顏色可選/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】清涼夏日微風修身羅紋開襟衫 - 2 碼",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
@@ -69,6 +61,14 @@
         "price": 688,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202604/934994e80cfaa6c9ba44ef825b60e70c.webp",
         "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【最佳補貨/免運費】純色修身夏季開襟衫 - 6種顏色可選",
+        "price": 854,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/e41739239b685bf199bc0514bad435d2.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費純色修身夏季開襟衫-6種顏色可選/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
