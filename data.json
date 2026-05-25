@@ -137,14 +137,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達🚚】Made by Two Tones Layering Cardigan Knit - 3色",
-        "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3c1c2a770ffa5453034e78b826992560.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚made-by-two-tones-layering-cardigan-knit-3色/10242/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "城市細節升級洗車連身衣 - 3 種顏色",
         "price": 1424,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c903e66fb6d3bd587a51e0e7d5f2868a.webp",
@@ -269,6 +261,14 @@
         "price": 1738,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202603/2a4163f2a58109d9c23222447fcd9297.webp",
         "url": "https://m.tw.slowand.com/product/免運費當日送達🚚僅限-ed-mono-簡約皮革夾克/10281/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【當日送達🚚/免運費】僅限此款。粒面霧面軟皮外套 - 2 種顏色",
+        "price": 2047,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202603/214808a26b745c3f0d0d7cd8c52635ad.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限此款粒面霧面軟皮外套-2-種顏色/10278/category/24/display/1/",
         "is_new": true
     }
 ]
