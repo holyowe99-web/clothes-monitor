@@ -1,6 +1,22 @@
 [
     {
         "store": "Slowand",
+        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
+        "price": 649,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
+        "price": 781,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/a4c0fbdac60845f629f36c21014925d4.webp",
+        "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【☀️夏季必備/包郵】輕薄透氣修身夏季開襟衫 - 5種顏色可選（限時特惠）",
         "price": 781,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
@@ -49,26 +65,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
-        "price": 649,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【最佳補貨】Shells 復古夏季開襟衫 - 3 種顏色",
         "price": 1000,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/7c8bb90b80556df3b04b9137973333af.webp",
         "url": "https://m.tw.slowand.com/product/最佳補貨shells-復古夏季開襟衫-3-種顏色/8458/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
-        "price": 781,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/a4c0fbdac60845f629f36c21014925d4.webp",
-        "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -133,6 +133,14 @@
         "price": 1675,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202212/f793cec09ec58b8352047ab8c03016fc.gif",
         "url": "https://m.tw.slowand.com/product/免運費-進出光面皮革襯墊-2-種顏色/7038/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
+        "price": 781,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/a4c0fbdac60845f629f36c21014925d4.webp",
+        "url": "https://m.tw.slowand.com/product/夏季新款上市！-免運費made-plain-day-basic-cardigan-9-種顏色/8215/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 970,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/5c7c659cbc5b00f236ff8c03aeb5f69c.webp",
         "url": "https://m.tw.slowand.com/product/免運費絲質混紡僅限-flynn-精緻修身輕薄開襟衫-5-種顏色可選（當日送達🚚）/10287/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
-        "price": 1075,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/1/",
         "is_new": true
     }
 ]
