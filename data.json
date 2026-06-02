@@ -153,6 +153,30 @@
     },
     {
         "store": "Slowand",
+        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
+        "price": 703,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
+        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
+        "price": 1075,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【當日送達🚚/新增顏色】Lizzie 軟領開襟衫 - 6 種顏色",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/97a3bb4bfc49793ed39e30b123af2294.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚新增顏色lizzie-軟領開襟衫-6-種顏色/9238/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/a4c0fbdac60845f629f36c21014925d4.webp",
@@ -225,14 +249,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【雙層細節/今日送達🚚】僅限此款。雙色拼接開襟衫 - 2 色",
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
@@ -253,22 +269,6 @@
         "price": 943,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
         "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【數量有限/免運費】Ted 復古野戰夾克 - 2 種顏色（當日送達🚚）",
-        "price": 4026,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/6abc454e12d3692e60c6dd1111688700.webp",
-        "url": "https://m.tw.slowand.com/product/數量有限免運費ted-復古野戰夾克-2-種顏色（當日送達🚚）/10297/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費/當日送達🚚】Harbor 品牌連帽野戰外套/防風外套 - 3 種顏色",
-        "price": 2027,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/deb277ddc80d0fe74645607fe3a7896d.webp",
-        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚harbor-品牌連帽野戰外套防風外套-3-種顏色/10295/category/24/display/1/",
         "is_new": true
     }
 ]
