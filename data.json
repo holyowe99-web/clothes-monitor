@@ -1,18 +1,26 @@
 [
     {
         "store": "Slowand",
-        "name": "【直到仲夏】美好回憶，清涼夏日輕薄防風外套 - 3 種顏色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
-        "url": "https://m.tw.slowand.com/product/直到仲夏美好回憶，清涼夏日輕薄防風外套-3-種顏色/10530/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【Salantan 商品🧊/限時特賣】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
         "url": "https://m.tw.slowand.com/product/salantan-商品🧊限時特賣透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
+        "price": 649,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【直到仲夏】美好回憶，清涼夏日輕薄防風外套 - 3 種顏色",
+        "price": 1071,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
+        "url": "https://m.tw.slowand.com/product/直到仲夏美好回憶，清涼夏日輕薄防風外套-3-種顏色/10530/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -53,14 +61,6 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/fcd73fc9adb024f04fd54f468e8b4ac9.webp",
         "url": "https://m.tw.slowand.com/product/免運費最佳補貨made-nocturne-清涼夏季羅紋開襟衫-5-種顏色/9311/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
-        "price": 649,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -137,6 +137,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【Salantan 商品🧊/限時特賣】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
+        "price": 831,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
+        "url": "https://m.tw.slowand.com/product/salantan-商品🧊限時特賣透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
         "price": 703,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
@@ -165,14 +173,6 @@
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
         "url": "https://m.tw.slowand.com/product/直到仲夏美好回憶，清涼夏日輕薄防風外套-3-種顏色/10530/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【Salantan 商品🧊/限時特賣】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
-        "price": 831,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
-        "url": "https://m.tw.slowand.com/product/salantan-商品🧊限時特賣透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/1/",
         "is_new": true
     },
     {
