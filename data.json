@@ -57,10 +57,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費/最佳補貨】Made. Nocturne 清涼夏季羅紋開襟衫 - 5 種顏色",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/fcd73fc9adb024f04fd54f468e8b4ac9.webp",
-        "url": "https://m.tw.slowand.com/product/免運費最佳補貨made-nocturne-清涼夏季羅紋開襟衫-5-種顏色/9311/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "name": "【限時特賣/熱銷商品補貨】精緻修身插肩袖半開襟衫 - 3 色可選",
+        "price": 592,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
+        "url": "https://m.tw.slowand.com/product/限時特賣熱銷商品補貨精緻修身插肩袖半開襟衫-3-色可選/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -153,22 +153,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/新增顏色】Lizzie 軟領開襟衫 - 6 種顏色",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/97a3bb4bfc49793ed39e30b123af2294.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚新增顏色lizzie-軟領開襟衫-6-種顏色/9238/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【直到仲夏】美好回憶，清涼夏日輕薄防風外套 - 3 種顏色",
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
@@ -241,6 +225,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
+        "price": 703,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
+        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【雙層細節/今日送達🚚】僅限此款。雙色拼接開襟衫 - 2 色",
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
@@ -269,6 +261,14 @@
         "price": 4026,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/6abc454e12d3692e60c6dd1111688700.webp",
         "url": "https://m.tw.slowand.com/product/數量有限免運費ted-復古野戰夾克-2-種顏色（當日送達🚚）/10297/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費/當日送達🚚】Harbor 品牌連帽野戰外套/防風外套 - 3 種顏色",
+        "price": 2027,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/deb277ddc80d0fe74645607fe3a7896d.webp",
+        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚harbor-品牌連帽野戰外套防風外套-3-種顏色/10295/category/24/display/1/",
         "is_new": true
     }
 ]
