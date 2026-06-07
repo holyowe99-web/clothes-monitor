@@ -9,14 +9,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【直到仲夏】美好回憶，清涼夏日輕薄防風外套 - 3 種顏色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
-        "url": "https://m.tw.slowand.com/product/直到仲夏美好回憶，清涼夏日輕薄防風外套-3-種顏色/10530/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【☀️夏季必備/包郵】輕薄透氣修身夏季開襟衫 - 5種顏色可選",
         "price": 781,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
@@ -53,6 +45,14 @@
         "price": 592,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
         "url": "https://m.tw.slowand.com/product/限時特賣熱銷商品補貨精緻修身插肩半開襟衫-3-色可選（包郵）/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【限時特賣/熱銷商品補貨】Kitz 精緻打孔開襟衫 - 3 色可選",
+        "price": 785,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/06157f8cf9d7e68d9e61ba41a7733092.webp",
+        "url": "https://m.tw.slowand.com/product/限時特賣熱銷商品補貨kitz-精緻打孔開襟衫-3-色可選/9378/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,14 +141,6 @@
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
         "url": "https://m.tw.slowand.com/product/salantan-商品🧊限時特賣透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
-        "price": 1075,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/1/",
         "is_new": true
     },
     {
@@ -269,6 +261,14 @@
         "price": 2027,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/deb277ddc80d0fe74645607fe3a7896d.webp",
         "url": "https://m.tw.slowand.com/product/免運費當日送達🚚harbor-品牌連帽野戰外套防風外套-3-種顏色/10295/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費/絲質混紡】僅限 Flynn 精緻修身輕薄開襟衫 - 5 種顏色可選（當日送達🚚）",
+        "price": 970,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/5c7c659cbc5b00f236ff8c03aeb5f69c.webp",
+        "url": "https://m.tw.slowand.com/product/免運費絲質混紡僅限-flynn-精緻修身輕薄開襟衫-5-種顏色可選（當日送達🚚）/10287/category/24/display/1/",
         "is_new": true
     }
 ]
