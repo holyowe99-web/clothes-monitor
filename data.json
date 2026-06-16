@@ -1,6 +1,14 @@
 [
     {
         "store": "Slowand",
+        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
+        "price": 649,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "已完成。陽光夏日針織外套",
         "price": 947,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/e1615170283833d4e00ab9c3e7dcd163.webp",
@@ -53,14 +61,6 @@
         "price": 865,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202506/ddc1afa1ef8dd3541ee18a3ffa7c01d2.webp",
         "url": "https://m.tw.slowand.com/product/最佳補貨免運費avec-品牌清涼夏季v領開襟衫（天絲亞麻布料）-3種顏色/9446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
-        "price": 649,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
