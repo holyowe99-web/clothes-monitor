@@ -1,10 +1,26 @@
 [
     {
         "store": "Slowand",
+        "name": "【免運費】。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
+        "price": 1075,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
+        "url": "https://m.tw.slowand.com/product/免運費清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【最佳補貨/免運費】Simone 夏季清涼開襟衫 - 5 種顏色",
         "price": 649,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
         "url": "https://m.tw.slowand.com/product/最佳補貨免運費simone-夏季清涼開襟衫-5-種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【開業特惠！ 】僅限此款。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
+        "price": 709,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
+        "url": "https://m.tw.slowand.com/product/開業特惠！-僅限此款自然蕾絲鏤空夏季開襟衫-2-種顏色/10580/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -37,22 +53,6 @@
         "price": 700,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
         "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
-        "price": 1075,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
-        "url": "https://m.tw.slowand.com/product/免運費清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
-        "price": 592,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -137,10 +137,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日夢想🚚】Kitz 的 Zanpunching 開襟衫 - 3 種顏色",
-        "price": 785,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/06157f8cf9d7e68d9e61ba41a7733092.webp",
-        "url": "https://m.tw.slowand.com/product/今日夢想🚚kitz-的-zanpunching-開襟衫-3-種顏色/9378/category/24/display/1/",
+        "name": "【免運費】。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
+        "price": 1075,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
+        "url": "https://m.tw.slowand.com/product/免運費清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/1/",
         "is_new": true
     },
     {
@@ -217,14 +217,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費】。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
-        "price": 1075,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
-        "url": "https://m.tw.slowand.com/product/免運費清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費/必備基本款】清涼夏季V領標準版型開襟衫 - 5種顏色（必備單品！）",
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/86b8aafc8067a0d01bbaf7929ee4c6e8.webp",
@@ -269,6 +261,14 @@
         "price": 943,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
         "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【數量有限/免運費】Ted 復古野戰夾克 - 2 種顏色（當日送達🚚）",
+        "price": 4026,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/6abc454e12d3692e60c6dd1111688700.webp",
+        "url": "https://m.tw.slowand.com/product/數量有限免運費ted-復古野戰夾克-2-種顏色（當日送達🚚）/10297/category/24/display/1/",
         "is_new": true
     }
 ]
