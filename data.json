@@ -25,14 +25,6 @@
     },
     {
         "store": "Slowand",
-        "name": "已完成。陽光夏日針織外套",
-        "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/e1615170283833d4e00ab9c3e7dcd163.webp",
-        "url": "https://m.tw.slowand.com/product/已完成陽光夏日針織外套/10549/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "[Salantatem🧊] 出品。透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
@@ -53,6 +45,14 @@
         "price": 700,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
         "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
+        "price": 592,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
