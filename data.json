@@ -1,6 +1,14 @@
 [
     {
         "store": "Slowand",
+        "name": "【最佳補貨/必備單品】Simone品牌清涼夏季開襟衫 - 5種顏色可選（包郵）",
+        "price": 649,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨必備單品simone品牌清涼夏季開襟衫-5種顏色可選（包郵）/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
         "price": 709,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
@@ -21,14 +29,6 @@
         "price": 781,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
         "url": "https://m.tw.slowand.com/product/夏季必備包郵輕薄透氣修身夏季開襟衫-5種顏色可選/10526/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】清涼夏日微風修身羅紋開襟衫 - 2 碼",
-        "price": 700,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
-        "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -57,10 +57,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【最佳補貨/必備單品】Simone品牌清涼夏季開襟衫 - 5種顏色可選（包郵）",
-        "price": 649,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨必備單品simone品牌清涼夏季開襟衫-5種顏色可選（包郵）/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "name": "【最佳補貨/免運費】Avec 品牌清涼夏季V領開襟衫（天絲亞麻布料） - 3種顏色",
+        "price": 865,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202506/ddc1afa1ef8dd3541ee18a3ffa7c01d2.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費avec-品牌清涼夏季v領開襟衫（天絲亞麻布料）-3種顏色/9446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -133,6 +133,14 @@
         "price": 1675,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202212/f793cec09ec58b8352047ab8c03016fc.gif",
         "url": "https://m.tw.slowand.com/product/免運費-進出光面皮革襯墊-2-種顏色/7038/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
+        "price": 703,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
+        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     },
     {
@@ -237,14 +245,6 @@
         "price": 2297,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     },
     {
