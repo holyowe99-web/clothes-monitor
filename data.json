@@ -145,6 +145,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【當日送達🚚/兩件套裝】僅限 Vianne 開襟衫+無袖套裝 - 2 種顏色",
+        "price": 1075,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0fd2d0309159c16c1abe33737264d0d9.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚兩件套裝僅限-vianne-開襟衫無袖套裝-2-種顏色/10284/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "[突破1萬張/免費發送] [MOK] 夏季 日常 外套夾克 - 2種顏色",
         "price": 649,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202205/eb3c109cdcf4244bec6447ef35cf2f1b.webp",
@@ -261,14 +269,6 @@
         "price": 1886,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
         "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【諮詢量激增！ 】僅限 Miel 精緻修身柔和色調開襟衫 - 4 種顏色",
-        "price": 943,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
-        "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
         "is_new": true
     }
 ]
