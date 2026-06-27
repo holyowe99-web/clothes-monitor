@@ -1,6 +1,14 @@
 [
     {
         "store": "Slowand",
+        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
+        "price": 592,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
         "price": 709,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
@@ -37,14 +45,6 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/86b8aafc8067a0d01bbaf7929ee4c6e8.webp",
         "url": "https://m.tw.slowand.com/product/免運費必備基本款清涼夏季v領標準版型開襟衫-5種顏色（必備單品！）/10401/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
-        "price": 592,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -133,6 +133,14 @@
         "price": 1675,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202212/f793cec09ec58b8352047ab8c03016fc.gif",
         "url": "https://m.tw.slowand.com/product/免運費-進出光面皮革襯墊-2-種顏色/7038/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
+        "price": 592,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 1886,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
         "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【諮詢量激增！ 】僅限 Miel 精緻修身柔和色調開襟衫 - 4 種顏色",
-        "price": 943,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
-        "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
         "is_new": true
     }
 ]
