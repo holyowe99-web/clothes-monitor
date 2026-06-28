@@ -137,10 +137,26 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費/今日夢想🚚】男士修身側開衩針織連帽衫 - 4 色可選",
+        "price": 892,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202601/dc1fa625eea13e552976f02cd5668a01.webp",
+        "url": "https://m.tw.slowand.com/product/免運費今日夢想🚚男士修身側開衩針織連帽衫-4-色可選/10060/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
         "price": 592,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
         "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "[追加顏色🌸] 時尚針織衫拉鍊/短拉鍊針織衫 - 13種顏色",
+        "price": 881,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202401/2982d364a47735b013681497265058a1.webp",
+        "url": "https://m.tw.slowand.com/product/追加顏色🌸-時尚針織衫拉鍊短拉鍊針織衫-13種顏色/7986/category/24/display/1/",
         "is_new": true
     },
     {
@@ -253,22 +269,6 @@
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
         "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【獨家特價/免運費】僅限此款。天絲短版風衣 - 2 色可選（當日送達🚚）",
-        "price": 1886,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
-        "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【諮詢量激增！ 】僅限 Miel 精緻修身柔和色調開襟衫 - 4 種顏色",
-        "price": 943,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
-        "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
         "is_new": true
     }
 ]
