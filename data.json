@@ -145,14 +145,6 @@
     },
     {
         "store": "Slowand",
-        "name": "[追加顏色🌸] 時尚針織衫拉鍊/短拉鍊針織衫 - 13種顏色",
-        "price": 881,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202401/2982d364a47735b013681497265058a1.webp",
-        "url": "https://m.tw.slowand.com/product/追加顏色🌸-時尚針織衫拉鍊短拉鍊針織衫-13種顏色/7986/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
         "price": 709,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
@@ -269,6 +261,14 @@
         "price": 1886,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
         "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【諮詢量激增！ 】僅限 Miel 精緻修身柔和色調開襟衫 - 4 種顏色",
+        "price": 943,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
+        "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
         "is_new": true
     }
 ]
