@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【最佳補貨/免運費】Avec 品牌清涼夏季V領開襟衫（天絲亞麻布料） - 3種顏色",
-        "price": 865,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202506/ddc1afa1ef8dd3541ee18a3ffa7c01d2.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費avec-品牌清涼夏季v領開襟衫（天絲亞麻布料）-3種顏色/9446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
         "price": 709,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
@@ -45,6 +37,14 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/86b8aafc8067a0d01bbaf7929ee4c6e8.webp",
         "url": "https://m.tw.slowand.com/product/免運費必備基本款清涼夏季v領標準版型開襟衫-5種顏色（必備單品！）/10401/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
+        "price": 592,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,14 +141,6 @@
         "price": 892,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202601/dc1fa625eea13e552976f02cd5668a01.webp",
         "url": "https://m.tw.slowand.com/product/免運費今日夢想🚚男士修身側開衩針織連帽衫-4-色可選/10060/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【最佳補貨/免運費】精緻修身插肩半開襟衫 - 3 種顏色可選",
-        "price": 592,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/ac7ac809cfd344e9649f4dc66c63974e.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費精緻修身插肩半開襟衫-3-種顏色可選/9507/category/24/display/1/",
         "is_new": true
     },
     {
@@ -269,6 +261,14 @@
         "price": 703,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
         "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【雙層細節/今日送達🚚】僅限此款。雙色拼接開襟衫 - 2 色",
+        "price": 1071,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
+        "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
         "is_new": true
     }
 ]
