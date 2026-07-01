@@ -1,18 +1,18 @@
 [
     {
         "store": "Slowand",
-        "name": "[Salantatem🧊] 出品。透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
-        "price": 831,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
-        "url": "https://m.tw.slowand.com/product/salantatem🧊-出品透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
         "price": 709,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
         "url": "https://m.tw.slowand.com/product/sal-a-t-獨家發售自然蕾絲鏤空夏季開襟衫-2-種顏色/10580/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "[Salantatem🧊] 出品。透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
+        "price": 831,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
+        "url": "https://m.tw.slowand.com/product/salantatem🧊-出品透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -137,6 +137,14 @@
     },
     {
         "store": "Slowand",
+        "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
+        "price": 709,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
+        "url": "https://m.tw.slowand.com/product/sal-a-t-獨家發售自然蕾絲鏤空夏季開襟衫-2-種顏色/10580/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "[Salantatem🧊] 出品。透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
@@ -145,18 +153,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【最佳補貨/免運費】Avec 品牌清涼夏季V領開襟衫（天絲亞麻布料） - 3種顏色",
-        "price": 865,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202506/ddc1afa1ef8dd3541ee18a3ffa7c01d2.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨免運費avec-品牌清涼夏季v領開襟衫（天絲亞麻布料）-3種顏色/9446/category/24/display/1/",
+        "name": "【夏季必備/包郵】輕薄透氣修身夏季開襟衫 - 5種顏色可選",
+        "price": 781,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
+        "url": "https://m.tw.slowand.com/product/夏季必備包郵輕薄透氣修身夏季開襟衫-5種顏色可選/10526/category/24/display/1/",
         "is_new": true
     },
     {
         "store": "Slowand",
-        "name": "[Sal-A-T!] 獨家發售。自然蕾絲鏤空夏季開襟衫 - 2 種顏色",
-        "price": 709,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/529c2eb4b1645e1b8bed04c790963f9c.webp",
-        "url": "https://m.tw.slowand.com/product/sal-a-t-獨家發售自然蕾絲鏤空夏季開襟衫-2-種顏色/10580/category/24/display/1/",
+        "name": "【最佳補貨/免運費】Avec 品牌清涼夏季V領開襟衫（天絲亞麻布料） - 3種顏色",
+        "price": 865,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202506/ddc1afa1ef8dd3541ee18a3ffa7c01d2.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費avec-品牌清涼夏季v領開襟衫（天絲亞麻布料）-3種顏色/9446/category/24/display/1/",
         "is_new": true
     },
     {
@@ -173,14 +181,6 @@
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
         "url": "https://m.tw.slowand.com/product/今日送達🚚仲夏前送達made-in-memories-清涼夏季輕薄防風外套-3-種顏色/10530/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【夏季必備/包郵】輕薄透氣修身夏季開襟衫 - 5種顏色可選",
-        "price": 781,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
-        "url": "https://m.tw.slowand.com/product/夏季必備包郵輕薄透氣修身夏季開襟衫-5種顏色可選/10526/category/24/display/1/",
         "is_new": true
     },
     {
