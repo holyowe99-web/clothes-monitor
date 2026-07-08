@@ -49,10 +49,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【最佳補貨】純色圓領夏季開襟衫 - 4 種顏色可選",
-        "price": 878,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/145e446478292339c63c6abd9da1e9ba.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨純色圓領夏季開襟衫-4-種顏色可選/9534/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "name": "【最佳補貨/免運費】Avec 品牌清涼夏季V領開襟衫（天絲亞麻布料） - 3種顏色",
+        "price": 865,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202506/ddc1afa1ef8dd3541ee18a3ffa7c01d2.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨免運費avec-品牌清涼夏季v領開襟衫（天絲亞麻布料）-3種顏色/9446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,6 +141,14 @@
         "price": 754,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/2f41be97f13325a18eeb4207f3269b25.webp",
         "url": "https://m.tw.slowand.com/product/今日送達🚚特惠僅限今日-rie-精緻修身-symbol-開襟衫-3-種顏色/9521/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【開幕特惠】只賣一件撞色亞麻開襟衫 - 3 種顏色",
+        "price": 878,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e1902928a86950f7712169d819d0ef60.webp",
+        "url": "https://m.tw.slowand.com/product/開幕特惠只賣一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 1886,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
         "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【諮詢量激增！ 】僅限 Miel 精緻修身柔和色調開襟衫 - 4 種顏色",
-        "price": 943,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/123c5ac29e8cb244e0f10eb86fe9399a.webp",
-        "url": "https://m.tw.slowand.com/product/諮詢量激增！-僅限-miel-精緻修身柔和色調開襟衫-4-種顏色/10305/category/24/display/1/",
         "is_new": true
     }
 ]
