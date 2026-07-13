@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【免運費】清涼夏日微風修身羅紋開襟衫 - 2 碼",
-        "price": 700,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
-        "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【最佳補貨/必備單品】Simone品牌清涼夏季開襟衫 - 5種顏色可選（包郵）",
         "price": 649,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
@@ -17,10 +9,10 @@
     },
     {
         "store": "Slowand",
-        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
-        "price": 878,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
-        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "name": "【免運費】清涼夏日微風修身羅紋開襟衫 - 2 碼",
+        "price": 700,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
+        "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -37,6 +29,14 @@
         "price": 738,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/49c0e66eaedba2049821d14f9e15ea6c.webp",
         "url": "https://m.tw.slowand.com/product/免運費僅限-sorbet-亞麻-v-領開襟衫-5-種顏色/10670/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
+        "price": 878,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
+        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -137,14 +137,6 @@
     },
     {
         "store": "Slowand",
-        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
-        "price": 878,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
-        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🔥仲夏特惠/開業大促】僅限此款 Terrace 精緻修身夏季開衫 - 3 色可選（包郵）",
         "price": 640,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e4e420a7cc0a572dc3407d2b68112aed.webp",
@@ -157,6 +149,14 @@
         "price": 738,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/49c0e66eaedba2049821d14f9e15ea6c.webp",
         "url": "https://m.tw.slowand.com/product/免運費僅限-sorbet-亞麻-v-領開襟衫-5-種顏色/10670/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
+        "price": 878,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
+        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/1/",
         "is_new": true
     },
     {
