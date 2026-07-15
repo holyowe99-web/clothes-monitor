@@ -137,6 +137,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【開業特賣】僅限。 Ether蕾絲褶皺襯衫",
+        "price": 709,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e7df19bc6cc94dafee93bebf906704fc.webp",
+        "url": "https://m.tw.slowand.com/product/開業特賣僅限-ether蕾絲褶皺襯衫/10686/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🔥仲夏特惠/開業大促】僅限此款 Terrace 精緻修身夏季開衫 - 3 色可選（包郵）",
         "price": 640,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e4e420a7cc0a572dc3407d2b68112aed.webp",
@@ -261,14 +269,6 @@
         "price": 703,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
         "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【雙層細節/今日送達🚚】僅限此款。雙色拼接開襟衫 - 2 色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
-        "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
         "is_new": true
     }
 ]
