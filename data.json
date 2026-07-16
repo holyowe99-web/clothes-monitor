@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【最佳補貨/必備單品】Simone品牌清涼夏季開襟衫 - 5種顏色可選（包郵）",
-        "price": 649,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/最佳補貨必備單品simone品牌清涼夏季開襟衫-5種顏色可選（包郵）/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【最佳補貨/必備單品】純色修身夏季開襟衫 - 6種顏色可選（包郵）",
         "price": 970,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/549127f46e2793240d9de1888365958f.webp",
@@ -73,6 +65,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【最佳補貨/必備單品】Simone品牌清涼夏季開襟衫 - 5種顏色可選（包郵）",
+        "price": 649,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
+        "url": "https://m.tw.slowand.com/product/最佳補貨必備單品simone品牌清涼夏季開襟衫-5種顏色可選（包郵）/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【夏季新款上市！ /免運費】Made. Plain Day Basic Cardigan - 9 種顏色",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/d262b3515ac3beb04a4a1070576e4e1a.webp",
@@ -125,6 +125,14 @@
         "price": 1675,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202212/f793cec09ec58b8352047ab8c03016fc.gif",
         "url": "https://m.tw.slowand.com/product/免運費-進出光面皮革襯墊-2-種顏色/7038/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費/當日送達🚚】Made. Nocturne 清涼夏季羅紋開襟衫 - 5 種顏色",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/fcd73fc9adb024f04fd54f468e8b4ac9.webp",
+        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚made-nocturne-清涼夏季羅紋開襟衫-5-種顏色/9311/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 2297,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     }
 ]
