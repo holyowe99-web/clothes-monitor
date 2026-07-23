@@ -49,14 +49,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日夢想🚚】已完成。都會寬鬆亞麻布開襟衫 - 4 種顏色",
-        "price": 943,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/f95bbf798c36c82b7cbf00fdb2cdba97.webp",
-        "url": "https://m.tw.slowand.com/product/今日夢想🚚已完成都會寬鬆亞麻布開襟衫-4-種顏色/8446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【特價優惠/當日送達🚚】Made-in-Canoe 針織夏季開襟衫 - 4 種顏色",
         "price": 664,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202405/b05ab48451bcfff03d1a2992ada9cb03.gif",
@@ -77,6 +69,14 @@
         "price": 970,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/549127f46e2793240d9de1888365958f.webp",
         "url": "https://m.tw.slowand.com/product/🔥夏季清倉背心補貨純色修身夏季開襟衫-6種顏色可選（必備單品包郵）/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日夢想🚚】已完成。都會寬鬆亞麻布開襟衫 - 4 種顏色",
+        "price": 943,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/f95bbf798c36c82b7cbf00fdb2cdba97.webp",
+        "url": "https://m.tw.slowand.com/product/今日夢想🚚已完成都會寬鬆亞麻布開襟衫-4-種顏色/8446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
