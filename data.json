@@ -217,14 +217,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【夏季必備/免運費】Made. 輕盈涼爽修身夏季開襟衫 - 5種顏色可選（當日送達🚚）",
-        "price": 781,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
-        "url": "https://m.tw.slowand.com/product/夏季必備免運費made-輕盈涼爽修身夏季開襟衫-5種顏色可選（當日送達🚚）/10526/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "城市細節升級洗車連身衣 - 3 種顏色",
         "price": 1616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c903e66fb6d3bd587a51e0e7d5f2868a.webp",
@@ -269,6 +261,14 @@
         "price": 703,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
         "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【雙層細節/今日送達🚚】僅限此款。雙色拼接開襟衫 - 2 色",
+        "price": 1071,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
+        "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
         "is_new": true
     }
 ]
