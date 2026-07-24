@@ -17,6 +17,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【當日送達🚚/免運費】僅限此款。雪葩亞麻V領開襟衫 - 5種顏色",
+        "price": 738,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/49c0e66eaedba2049821d14f9e15ea6c.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限此款雪葩亞麻v領開襟衫-5種顏色/10670/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🔥夏季特惠/男士款！ 】House 夏季清涼寬鬆開衫 - 5 種顏色可選（包郵）",
         "price": 785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/6ad4e7c61f2b8d81d8dfb748e725c769.webp",
@@ -25,18 +33,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達🚚/仲夏前送達】Made in Memories 清涼夏季輕薄防風外套 - 3 種顏色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚仲夏前送達made-in-memories-清涼夏季輕薄防風外套-3-種顏色/10530/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【當日送達🚚/免運費】Breeze Wellmade 半截野戰夾克",
         "price": 1783,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/7cb1e74f19e572b15673d9ac3abff9f1.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費breeze-wellmade-半截野戰夾克/10464/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日夢想🚚】寬鬆打底夏季開襟衫（Salanta 商品）- 5 種顏色",
+        "price": 621,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202407/69848c3bde39affbd6dd100e875cd08a.webp",
+        "url": "https://m.tw.slowand.com/product/今日夢想🚚寬鬆打底夏季開襟衫（salanta-商品）-5-種顏色/8537/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -69,14 +77,6 @@
         "price": 970,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/549127f46e2793240d9de1888365958f.webp",
         "url": "https://m.tw.slowand.com/product/🔥夏季清倉背心補貨純色修身夏季開襟衫-6種顏色可選（必備單品包郵）/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日夢想🚚】已完成。都會寬鬆亞麻布開襟衫 - 4 種顏色",
-        "price": 943,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/f95bbf798c36c82b7cbf00fdb2cdba97.webp",
-        "url": "https://m.tw.slowand.com/product/今日夢想🚚已完成都會寬鬆亞麻布開襟衫-4-種顏色/8446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -201,14 +201,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達🚚/仲夏前送達】Made in Memories 清涼夏季輕薄防風外套 - 3 種顏色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/ce59f497704329dd89eab43a17f1089c.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚仲夏前送達made-in-memories-清涼夏季輕薄防風外套-3-種顏色/10530/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【今日送達】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
@@ -269,6 +261,14 @@
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
         "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【獨家特價/免運費】僅限此款。天絲短版風衣 - 2 色可選（當日送達🚚）",
+        "price": 1886,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
+        "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
         "is_new": true
     }
 ]
