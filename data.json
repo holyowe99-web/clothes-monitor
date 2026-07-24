@@ -1,6 +1,14 @@
 [
     {
         "store": "Slowand",
+        "name": "【🔥夏季特惠/夏季新款開賣！ 】純色日常基本款開襟衫 - 9種顏色可選（包郵）",
+        "price": 835,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/d262b3515ac3beb04a4a1070576e4e1a.webp",
+        "url": "https://m.tw.slowand.com/product/🔥夏季特惠夏季新款開賣！-純色日常基本款開襟衫-9種顏色可選（包郵）/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🔥夏季特惠/仲夏特賣】僅限Terrace Delicate Fit夏季開襟衫 - 3種顏色可選（包郵）",
         "price": 640,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e4e420a7cc0a572dc3407d2b68112aed.webp",
@@ -61,14 +69,6 @@
         "price": 664,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202405/b05ab48451bcfff03d1a2992ada9cb03.gif",
         "url": "https://m.tw.slowand.com/product/特價優惠當日送達🚚made-in-canoe-針織夏季開襟衫-4-種顏色/8409/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【🔥夏季特惠/夏季新款開賣！ 】純色日常基本款開襟衫 - 9種顏色可選（包郵）",
-        "price": 835,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/d262b3515ac3beb04a4a1070576e4e1a.webp",
-        "url": "https://m.tw.slowand.com/product/🔥夏季特惠夏季新款開賣！-純色日常基本款開襟衫-9種顏色可選（包郵）/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,6 +141,14 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/86b8aafc8067a0d01bbaf7929ee4c6e8.webp",
         "url": "https://m.tw.slowand.com/product/免運費必備基本款清涼夏季v領標準版型開襟衫-5種顏色（必備單品！）/10401/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【🔥夏季特惠/夏季新款開賣！ 】純色日常基本款開襟衫 - 9種顏色可選（包郵）",
+        "price": 835,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/d262b3515ac3beb04a4a1070576e4e1a.webp",
+        "url": "https://m.tw.slowand.com/product/🔥夏季特惠夏季新款開賣！-純色日常基本款開襟衫-9種顏色可選（包郵）/8215/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 1071,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
         "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【獨家特價/免運費】僅限此款。天絲短版風衣 - 2 色可選（當日送達🚚）",
-        "price": 1886,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c7aa08d4c874dc00826a4a90ef78a1a6.webp",
-        "url": "https://m.tw.slowand.com/product/獨家特價免運費僅限此款天絲短版風衣-2-色可選（當日送達🚚）/10312/category/24/display/1/",
         "is_new": true
     }
 ]
