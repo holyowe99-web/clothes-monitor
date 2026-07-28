@@ -49,18 +49,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Bow 精緻修身亞麻開襟衫 - 5 種顏色",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/6e407bce8ad581048e8185318ecac2d7.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費bow-精緻修身亞麻開襟衫-5-種顏色/10241/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🔥夏季特惠/背心補貨】Simone品牌清涼夏季開襟衫 - 5種顏色可選（包郵）",
         "price": 649,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
         "url": "https://m.tw.slowand.com/product/🔥夏季特惠背心補貨simone品牌清涼夏季開襟衫-5種顏色可選（包郵）/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "Urban Delicate Fit 亞麻衫 - 4 種顏色",
+        "price": 943,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202505/f95bbf798c36c82b7cbf00fdb2cdba97.webp",
+        "url": "https://m.tw.slowand.com/product/urban-delicate-fit-亞麻衫-4-種顏色/8446/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -129,14 +129,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
-        "price": 831,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
-        "url": "https://m.tw.slowand.com/product/今日送達透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🔥夏季特惠/免運費】Made. After Real 柔軟羅紋開襟衫 - 4 種顏色",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/9b24933fa3cf42612aaa34080113a3d2.webp",
@@ -197,6 +189,14 @@
         "price": 947,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/e1615170283833d4e00ab9c3e7dcd163.webp",
         "url": "https://m.tw.slowand.com/product/今日夢想🚚已實現陽光夏日針織外套/10549/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日送達】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
+        "price": 831,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
+        "url": "https://m.tw.slowand.com/product/今日送達透氣涼爽夏季亞麻針織開襟衫-4-種顏色/10527/category/24/display/1/",
         "is_new": true
     },
     {
