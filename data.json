@@ -25,14 +25,6 @@
     },
     {
         "store": "Slowand",
-        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
-        "price": 878,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
-        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【今日送達】透氣涼爽夏季亞麻針織開襟衫 - 4 種顏色",
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/fd0399be37491d9d3c3cf1d6692902c8.gif",
@@ -53,6 +45,14 @@
         "price": 1783,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/7cb1e74f19e572b15673d9ac3abff9f1.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費breeze-wellmade-半截野戰夾克/10464/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【兩件套裝/當日送達🚚】Hay Stripe 條紋無袖上衣+開襟衫套裝 - 2 種顏色",
+        "price": 1188,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/b73309e967b5237debc64e3835f34b3c.webp",
+        "url": "https://m.tw.slowand.com/product/兩件套裝當日送達🚚hay-stripe-條紋無袖上衣開襟衫套裝-2-種顏色/9602/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
