@@ -137,6 +137,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【限時特賣/熱銷商品補貨】秋日精緻修身羅紋開襟衫 - 4 色可選",
+        "price": 831,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/51ee3eec1fc2f14c167fb8546cb8c866.webp",
+        "url": "https://m.tw.slowand.com/product/限時特賣熱銷商品補貨秋日精緻修身羅紋開襟衫-4-色可選/9592/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【當日送達🚚/免運費】Made. After Real 柔軟羅紋開襟衫 - 4 種顏色",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/9b24933fa3cf42612aaa34080113a3d2.webp",
@@ -261,14 +269,6 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/86b8aafc8067a0d01bbaf7929ee4c6e8.webp",
         "url": "https://m.tw.slowand.com/product/免運費必備基本款清涼夏季v領標準版型開襟衫-5種顏色（必備單品！）/10401/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】僅限羅浮宮簡約皮革短夾克",
-        "price": 2297,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
         "is_new": true
     }
 ]
