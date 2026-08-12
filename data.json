@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【🍁初秋15%折扣/最佳補貨】Made. 秋季修身羅紋開襟衫 - 4色",
-        "price": 831,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/51ee3eec1fc2f14c167fb8546cb8c866.webp",
-        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣最佳補貨made-秋季修身羅紋開襟衫-4色/9592/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【當日送達🚚/免運費】Made. After Real 柔軟羅紋開襟衫 - 4 種顏色",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/9b24933fa3cf42612aaa34080113a3d2.webp",
@@ -53,6 +45,14 @@
         "price": 738,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/0a9386d4749df788d1459cf15b0bd2d8.webp",
         "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費made-精緻修身捲邊v領開襟衫-5種顏色（最佳補貨）/10126/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【🍁初秋15%折扣/最佳補貨】Made. 秋季修身羅紋開襟衫 - 4色",
+        "price": 831,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/51ee3eec1fc2f14c167fb8546cb8c866.webp",
+        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣最佳補貨made-秋季修身羅紋開襟衫-4色/9592/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,14 +141,6 @@
         "price": 1024,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/668ac403c8006c3e46dacee1722d3aa0.webp",
         "url": "https://m.tw.slowand.com/product/免運費必備單品僅限這款-dewey-蕾絲鏤空夏季開襟衫-2-色可選（今日送達🚚）/10460/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【🍁初秋15%折扣/最佳補貨】Made. 秋季修身羅紋開襟衫 - 4色",
-        "price": 831,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/51ee3eec1fc2f14c167fb8546cb8c866.webp",
-        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣最佳補貨made-秋季修身羅紋開襟衫-4色/9592/category/24/display/1/",
         "is_new": true
     },
     {
@@ -269,6 +261,14 @@
         "price": 2297,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
+        "price": 703,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
+        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     }
 ]
