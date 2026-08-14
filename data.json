@@ -1,18 +1,18 @@
 [
     {
         "store": "Slowand",
-        "name": "【Sal-anta 商品/顏色已上架！ 】純色修身夏季開襟衫 - 7 種顏色可選（包郵）",
-        "price": 970,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/cdd4d40f47e7a9b9f7b9154f3a4276c6.webp",
-        "url": "https://m.tw.slowand.com/product/sal-anta-商品顏色已上架！-純色修身夏季開襟衫-7-種顏色可選（包郵）/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🍁早鳥優惠15%/免運費】復古水洗棉野戰夾克",
         "price": 2619,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/8e424019ca0d2d2ebe25ea1d723c3d98.webp",
         "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費復古水洗棉野戰夾克/10787/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【Sal-anta 商品/顏色已上架！ 】純色修身夏季開襟衫 - 7 種顏色可選（包郵）",
+        "price": 970,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/cdd4d40f47e7a9b9f7b9154f3a4276c6.webp",
+        "url": "https://m.tw.slowand.com/product/sal-anta-商品顏色已上架！-純色修身夏季開襟衫-7-種顏色可選（包郵）/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
