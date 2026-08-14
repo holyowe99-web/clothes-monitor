@@ -137,6 +137,22 @@
     },
     {
         "store": "Slowand",
+        "name": "【🍁早鳥優惠15%/免運費】復古水洗棉野戰夾克",
+        "price": 2619,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/8e424019ca0d2d2ebe25ea1d723c3d98.webp",
+        "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費復古水洗棉野戰夾克/10787/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【Reels 詢價爆棚🍁 初秋 15% 折扣】已製作完成。淡秋霧面皮質短版外套 - 2 色可選（第一批：8 月 20 日出貨）",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/reels-詢價爆棚🍁-初秋-15-折扣已製作完成淡秋霧面皮質短版外套-2-色可選（第一批：8-月-20-日出貨）/10785/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【當日送達🚚/免運費】Made. After Real 柔軟羅紋開襟衫 - 4 種顏色",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/9b24933fa3cf42612aaa34080113a3d2.webp",
@@ -253,22 +269,6 @@
         "price": 2297,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【雙層細節/今日送達🚚】僅限此款。雙色拼接開襟衫 - 2 色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/3fd628275a2b6b462e43b295a6149784.webp",
-        "url": "https://m.tw.slowand.com/product/雙層細節今日送達🚚僅限此款雙色拼接開襟衫-2-色/10372/category/24/display/1/",
         "is_new": true
     }
 ]
