@@ -9,6 +9,22 @@
     },
     {
         "store": "Slowand",
+        "name": "【🍁早鳥優惠15%/免運費】復古水洗棉野戰夾克",
+        "price": 2619,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/8e424019ca0d2d2ebe25ea1d723c3d98.webp",
+        "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費復古水洗棉野戰夾克/10787/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【第二批開售 /🍁初秋15%折扣】已完成。淡秋霧面皮質短版外套 - 2種顏色（第二批：預計9月1日出貨）",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/第二批開售-🍁初秋15折扣已完成淡秋霧面皮質短版外套-2種顏色（第二批：預計9月1日出貨）/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【當日送達🚚/免運費】Made. After Real 柔軟羅紋開襟衫 - 4 種顏色",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/9b24933fa3cf42612aaa34080113a3d2.webp",
@@ -29,14 +45,6 @@
         "price": 781,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
         "url": "https://m.tw.slowand.com/product/夏季必備包郵輕薄透氣修身夏季開襟衫-5種顏色可選/10526/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】清涼夏日微風修身羅紋開襟衫 - 2 碼",
-        "price": 700,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
-        "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -69,14 +77,6 @@
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/d262b3515ac3beb04a4a1070576e4e1a.webp",
         "url": "https://m.tw.slowand.com/product/免運費純色日常基本款開襟衫-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【暫時缺貨 /🍁初秋15%折扣】Made. 淡秋啞光皮質短夾克 - 2色可選（熱銷 / 包郵）",
-        "price": 2262,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
-        "url": "https://m.tw.slowand.com/product/暫時缺貨-🍁初秋15折扣made-淡秋啞光皮質短夾克-2色可選（熱銷-包郵）/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -133,6 +133,14 @@
         "price": 2619,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/8e424019ca0d2d2ebe25ea1d723c3d98.webp",
         "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費復古水洗棉野戰夾克/10787/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【第二批開售 /🍁初秋15%折扣】已完成。淡秋霧面皮質短版外套 - 2種顏色（第二批：預計9月1日出貨）",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/第二批開售-🍁初秋15折扣已完成淡秋霧面皮質短版外套-2種顏色（第二批：預計9月1日出貨）/10785/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 2297,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     }
 ]
