@@ -17,14 +17,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【Sal-anta 商品/顏色已上架！ 】純色修身夏季開襟衫 - 7 種顏色可選（包郵）",
-        "price": 970,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/cdd4d40f47e7a9b9f7b9154f3a4276c6.webp",
-        "url": "https://m.tw.slowand.com/product/sal-anta-商品顏色已上架！-純色修身夏季開襟衫-7-種顏色可選（包郵）/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【當日送達🚚/免運費】Made. After Real 柔軟羅紋開襟衫 - 4 種顏色",
         "price": 616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/9b24933fa3cf42612aaa34080113a3d2.webp",
@@ -77,6 +69,14 @@
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/d262b3515ac3beb04a4a1070576e4e1a.webp",
         "url": "https://m.tw.slowand.com/product/免運費純色日常基本款開襟衫-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【Sal-anta 商品/顏色已上架！ 】純色修身夏季開襟衫 - 7 種顏色可選（包郵）",
+        "price": 970,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/cdd4d40f47e7a9b9f7b9154f3a4276c6.webp",
+        "url": "https://m.tw.slowand.com/product/sal-anta-商品顏色已上架！-純色修身夏季開襟衫-7-種顏色可選（包郵）/7396/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
