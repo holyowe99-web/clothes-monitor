@@ -137,6 +137,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【今日精選🚚/免運費】克萊門汀粗花呢針織外套（婚禮賓客裝扮/30%安哥拉羊毛）",
+        "price": 2405,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202501/b37c6da96c2bd90ce0d5894cc1181d8a.webp",
+        "url": "https://m.tw.slowand.com/product/今日精選🚚免運費克萊門汀粗花呢針織外套（婚禮賓客裝扮30安哥拉羊毛）/9044/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🍁早鳥優惠15%/免運費】復古水洗棉野戰夾克",
         "price": 2619,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/8e424019ca0d2d2ebe25ea1d723c3d98.webp",
@@ -261,14 +269,6 @@
         "price": 2297,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c720853c1aa2335116e9a20eee336e58.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限羅浮宮簡約皮革短夾克/10380/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
         "is_new": true
     }
 ]
