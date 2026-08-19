@@ -209,6 +209,14 @@
     },
     {
         "store": "Slowand",
+        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
+        "price": 878,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
+        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【免運費/男士尺寸！ 】僅限House夏季寬鬆開襟衫 - 5種顏色可選（當日送達🚚）",
         "price": 785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/6ad4e7c61f2b8d81d8dfb748e725c769.webp",
@@ -261,14 +269,6 @@
         "price": 1024,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/668ac403c8006c3e46dacee1722d3aa0.webp",
         "url": "https://m.tw.slowand.com/product/免運費必備單品僅限這款-dewey-蕾絲鏤空夏季開襟衫-2-色可選（今日送達🚚）/10460/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】僅限此款。清涼透氣夏季修身開襟衫（黏膠纖維）- 3 種顏色",
-        "price": 1075,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/dc313315571c911026e4fed3cc860cc8.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限此款清涼透氣夏季修身開襟衫（黏膠纖維）-3-種顏色/10457/category/24/display/1/",
         "is_new": true
     }
 ]
