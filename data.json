@@ -1,18 +1,18 @@
 [
     {
         "store": "Slowand",
-        "name": "【🍁初秋15%折扣】輕秋霧面皮質夾克 - 2色",
-        "price": 2262,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
-        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣輕秋霧面皮質夾克-2色/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🍁早鳥優惠15%/免運費】Maniv Detail Field Blouson 外套 - 2 色可選",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/565f11904668cc9cefe9449bc6f79541.webp",
         "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費maniv-detail-field-blouson-外套-2-色可選/10799/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【🍁初秋15%折扣】輕秋霧面皮質夾克 - 2色",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣輕秋霧面皮質夾克-2色/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -129,26 +129,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【🍁初秋15%折扣】輕秋霧面皮質夾克 - 2色",
-        "price": 2262,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
-        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣輕秋霧面皮質夾克-2色/10785/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日精選🚚/免運費】克萊門汀粗花呢針織外套（婚禮賓客裝扮/30%安哥拉羊毛）",
-        "price": 2405,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202501/b37c6da96c2bd90ce0d5894cc1181d8a.webp",
-        "url": "https://m.tw.slowand.com/product/今日精選🚚免運費克萊門汀粗花呢針織外套（婚禮賓客裝扮30安哥拉羊毛）/9044/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🍁早鳥優惠15%/免運費】Maniv Detail Field Blouson 外套 - 2 色可選",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/565f11904668cc9cefe9449bc6f79541.webp",
         "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費maniv-detail-field-blouson-外套-2-色可選/10799/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【🍁初秋15%折扣】輕秋霧面皮質夾克 - 2色",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/🍁初秋15折扣輕秋霧面皮質夾克-2色/10785/category/24/display/1/",
         "is_new": true
     },
     {
@@ -269,6 +261,14 @@
         "price": 1616,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c903e66fb6d3bd587a51e0e7d5f2868a.webp",
         "url": "https://m.tw.slowand.com/product/城市細節升級洗車連身衣-3-種顏色/10476/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】清涼夏日微風修身羅紋開襟衫 - 2 碼",
+        "price": 700,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/8d6360a66d6b5b4bd3fc0346402f3f6f.webp",
+        "url": "https://m.tw.slowand.com/product/免運費清涼夏日微風修身羅紋開襟衫-2-碼/10470/category/24/display/1/",
         "is_new": true
     }
 ]
