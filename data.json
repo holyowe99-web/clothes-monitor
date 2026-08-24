@@ -65,10 +65,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費/熱銷商品補貨】Simone品牌清涼夏季開襟衫 - 5種顏色",
+        "name": "【免運費/今日夢想🚚】Simon品牌清涼夏季開襟衫 - 5種顏色",
         "price": 649,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/免運費熱銷商品補貨simone品牌清涼夏季開襟衫-5種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "url": "https://m.tw.slowand.com/product/免運費今日夢想🚚simon品牌清涼夏季開襟衫-5種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -241,6 +241,14 @@
     },
     {
         "store": "Slowand",
+        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
+        "price": 878,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
+        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【免運費/男士尺寸！ 】僅限House夏季寬鬆開襟衫 - 5種顏色可選（當日送達🚚）",
         "price": 785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/6ad4e7c61f2b8d81d8dfb748e725c769.webp",
@@ -261,14 +269,6 @@
         "price": 781,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7738f20d63f23a25020685b1b4fbb38.webp",
         "url": "https://m.tw.slowand.com/product/夏季必備包郵輕薄透氣修身夏季開襟衫-5種顏色可選/10526/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "城市細節升級洗車連身衣 - 3 種顏色",
-        "price": 1616,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/c903e66fb6d3bd587a51e0e7d5f2868a.webp",
-        "url": "https://m.tw.slowand.com/product/城市細節升級洗車連身衣-3-種顏色/10476/category/24/display/1/",
         "is_new": true
     }
 ]
