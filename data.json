@@ -153,14 +153,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費/仲夏特惠】僅限此款。 Terrace 精緻修身夏季開襟衫 - 3 種顏色可選（今日送達🚚）",
-        "price": 640,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e4e420a7cc0a572dc3407d2b68112aed.webp",
-        "url": "https://m.tw.slowand.com/product/免運費仲夏特惠僅限此款-terrace-精緻修身夏季開襟衫-3-種顏色可選（今日送達🚚）/10682/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🍁早鳥優惠15%/回歸🍂】Vision 超大皮質夾克 - 3種顏色可選（包郵）",
         "price": 2190,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/a6d3d70e84816d9de39ea6bf40b245a3.webp",
@@ -269,6 +261,14 @@
         "price": 785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/6ad4e7c61f2b8d81d8dfb748e725c769.webp",
         "url": "https://m.tw.slowand.com/product/免運費男士尺寸！-僅限house夏季寬鬆開襟衫-5種顏色可選（當日送達🚚）/10657/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日夢想🚚】已實現。陽光夏日針織外套",
+        "price": 947,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/e1615170283833d4e00ab9c3e7dcd163.webp",
+        "url": "https://m.tw.slowand.com/product/今日夢想🚚已實現陽光夏日針織外套/10549/category/24/display/1/",
         "is_new": true
     }
 ]
