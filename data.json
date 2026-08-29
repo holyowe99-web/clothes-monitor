@@ -257,18 +257,18 @@
     },
     {
         "store": "Slowand",
-        "name": "僅此一件。撞色亞麻開襟衫 - 3 種顏色",
-        "price": 878,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/1c1743f7f8ff76c939bb7e1c8c3a02cd.webp",
-        "url": "https://m.tw.slowand.com/product/僅此一件撞色亞麻開襟衫-3-種顏色/10663/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費/男士尺寸！ 】僅限House夏季寬鬆開襟衫 - 5種顏色可選（當日送達🚚）",
         "price": 785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/6ad4e7c61f2b8d81d8dfb748e725c769.webp",
         "url": "https://m.tw.slowand.com/product/免運費男士尺寸！-僅限house夏季寬鬆開襟衫-5種顏色可選（當日送達🚚）/10657/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【今日夢想🚚】已實現。陽光夏日針織外套",
+        "price": 947,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/e1615170283833d4e00ab9c3e7dcd163.webp",
+        "url": "https://m.tw.slowand.com/product/今日夢想🚚已實現陽光夏日針織外套/10549/category/24/display/1/",
         "is_new": true
     }
 ]
