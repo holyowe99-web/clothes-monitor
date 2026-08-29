@@ -17,6 +17,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【🍁早鳥優惠15%/免運費】Field Vintage 水洗野戰夾克 - 2種顏色",
+        "price": 2119,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/db960dad342298a61125a0ed07f61fe2.webp",
+        "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費field-vintage-水洗野戰夾克-2種顏色/10821/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🍁早鳥優惠15%/免運費】Kyven Deep Mood 野戰夾克 - 2 色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/b641fde8b5184a227e04a5f53735fcac.webp",
@@ -61,14 +69,6 @@
         "price": 2190,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/13f717b98c05b694063b4e8af35a69be.webp",
         "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15免運費復古檔案口袋野戰夾克-2種顏色/10762/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費/今日夢想🚚】Simon品牌清涼夏季開襟衫 - 5種顏色",
-        "price": 649,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202507/93f37ec22c982571b5b05c1c535f4ebc.webp",
-        "url": "https://m.tw.slowand.com/product/免運費今日夢想🚚simon品牌清涼夏季開襟衫-5種顏色/8524/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -157,6 +157,14 @@
         "price": 4269,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202511/24b763995df73562c688446989a95dc1.webp",
         "url": "https://m.tw.slowand.com/product/免運費今日夢想🚚-高級半棉羽絨服，繫帶款-2-色可選/9822/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【🍁早鳥優惠15%/回歸🍂】Vision 超大皮質夾克 - 3種顏色可選（包郵）",
+        "price": 2190,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/a6d3d70e84816d9de39ea6bf40b245a3.webp",
+        "url": "https://m.tw.slowand.com/product/🍁早鳥優惠15回歸🍂vision-超大皮質夾克-3種顏色可選（包郵）/9636/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/6ad4e7c61f2b8d81d8dfb748e725c769.webp",
         "url": "https://m.tw.slowand.com/product/免運費男士尺寸！-僅限house夏季寬鬆開襟衫-5種顏色可選（當日送達🚚）/10657/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日夢想🚚】已實現。陽光夏日針織外套",
-        "price": 947,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202606/e1615170283833d4e00ab9c3e7dcd163.webp",
-        "url": "https://m.tw.slowand.com/product/今日夢想🚚已實現陽光夏日針織外套/10549/category/24/display/1/",
         "is_new": true
     }
 ]
