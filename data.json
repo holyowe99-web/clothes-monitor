@@ -25,14 +25,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費】Kyven Deep Mood 野戰夾克 - 2 種顏色",
-        "price": 2119,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/b641fde8b5184a227e04a5f53735fcac.webp",
-        "url": "https://m.tw.slowand.com/product/免運費kyven-deep-mood-野戰夾克-2-種顏色/10815/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】Maniv 出品 Detail Field Blouson 短版外套 - 2 種顏色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/565f11904668cc9cefe9449bc6f79541.webp",
@@ -41,10 +33,10 @@
     },
     {
         "store": "Slowand",
-        "name": "[Yeori Fit] Shiko 條紋開襟衫 - 2 種顏色",
+        "name": "【免運費/修身剪裁】Sico 條紋開襟衫 - 2 種顏色",
         "price": 928,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/3071eb0b40d1b37fc012f36616f148e5.webp",
-        "url": "https://m.tw.slowand.com/product/yeori-fit-shiko-條紋開襟衫-2-種顏色/10796/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "url": "https://m.tw.slowand.com/product/免運費修身剪裁sico-條紋開襟衫-2-種顏色/10796/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -69,6 +61,14 @@
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/51ee3eec1fc2f14c167fb8546cb8c866.webp",
         "url": "https://m.tw.slowand.com/product/回歸🍂秋季精緻修身羅紋開襟衫-4-種顏色/9592/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【🏆 秋季最佳開襟衫 / 包郵】Made. 純色日常基本款開襟衫 - 9 種顏色",
+        "price": 835,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e12c856cb18f0de8d14980950cc0ff61.webp",
+        "url": "https://m.tw.slowand.com/product/🏆-秋季最佳開襟衫-包郵made-純色日常基本款開襟衫-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -153,6 +153,22 @@
     },
     {
         "store": "Slowand",
+        "name": "【開幕特惠/免運費】Detailer 高級霧面皮革夾克 - 2 色可選",
+        "price": 2833,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/6a21152ed5db3c7662f2ebf4c8dce095.webp",
+        "url": "https://m.tw.slowand.com/product/開幕特惠免運費detailer-高級霧面皮革夾克-2-色可選/10841/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【開業特賣/優質毛線】絲羊絨混紡羊毛開襟衫 - 4 種顏色可選（包郵）",
+        "price": 1643,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c293b55e135bf492d8d81fafab8d128c.webp",
+        "url": "https://m.tw.slowand.com/product/開業特賣優質毛線絲羊絨混紡羊毛開襟衫-4-種顏色可選（包郵）/10839/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【開幕特惠/免運費】柔軟修身夾克 - 2 色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/8ab7c9e290fecfcea2d931dad8792905.webp",
@@ -193,10 +209,10 @@
     },
     {
         "store": "Slowand",
-        "name": "[Yeori Fit] Shiko 條紋開襟衫 - 2 種顏色",
+        "name": "【免運費/修身剪裁】Sico 條紋開襟衫 - 2 種顏色",
         "price": 928,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/3071eb0b40d1b37fc012f36616f148e5.webp",
-        "url": "https://m.tw.slowand.com/product/yeori-fit-shiko-條紋開襟衫-2-種顏色/10796/category/24/display/1/",
+        "url": "https://m.tw.slowand.com/product/免運費修身剪裁sico-條紋開襟衫-2-種顏色/10796/category/24/display/1/",
         "is_new": true
     },
     {
@@ -253,22 +269,6 @@
         "price": 709,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e7df19bc6cc94dafee93bebf906704fc.webp",
         "url": "https://m.tw.slowand.com/product/僅限以太蕾絲褶皺襯衫/10686/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】僅限 Terrace 精緻修身夏季開襟衫 - 3 種顏色",
-        "price": 640,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/e4e420a7cc0a572dc3407d2b68112aed.webp",
-        "url": "https://m.tw.slowand.com/product/免運費僅限-terrace-精緻修身夏季開襟衫-3-種顏色/10682/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】僅限此款。雪葩亞麻V領開襟衫 - 5種顏色",
-        "price": 738,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202607/49c0e66eaedba2049821d14f9e15ea6c.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費僅限此款雪葩亞麻v領開襟衫-5種顏色/10670/category/24/display/1/",
         "is_new": true
     }
 ]
