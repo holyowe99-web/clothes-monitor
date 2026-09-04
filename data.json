@@ -137,18 +137,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【開業特惠/免運費】Made. Autumns 工作服拉鍊夾克 - 2 種顏色",
-        "price": 2262,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/83873ab7b4754d96af904d0253869ba6.webp",
-        "url": "https://m.tw.slowand.com/product/開業特惠免運費made-autumns-工作服拉鍊夾克-2-種顏色/10845/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【開幕特惠/包郵】高級絲絨皮革短款夾克 - 2 色可選",
         "price": 2833,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/33b21e63e8d1ada8e57c4a8202199745.webp",
         "url": "https://m.tw.slowand.com/product/開幕特惠包郵高級絲絨皮革短款夾克-2-色可選/10844/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【開業特惠/免運費】Made. Autumns 工作服拉鍊夾克 - 2 種顏色",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/83873ab7b4754d96af904d0253869ba6.webp",
+        "url": "https://m.tw.slowand.com/product/開業特惠免運費made-autumns-工作服拉鍊夾克-2-種顏色/10845/category/24/display/1/",
         "is_new": true
     },
     {
