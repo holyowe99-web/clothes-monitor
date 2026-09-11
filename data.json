@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【免運費】Made. 標誌性貼布拉鏈連帽衫 - 3 種顏色",
-        "price": 1476,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
-        "url": "https://m.tw.slowand.com/product/免運費made-標誌性貼布拉鏈連帽衫-3-種顏色/10847/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】Maniv 出品 Detail Field Blouson 短版外套 - 2 種顏色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/565f11904668cc9cefe9449bc6f79541.webp",
@@ -17,10 +9,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【🏆 秋季最佳開襟衫 / 包郵】Made. 純色日常基本款開襟衫 - 9 種顏色",
+        "name": "Made. Mild 秋季霧面皮革短版夾克 - 2 種顏色",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/made-mild-秋季霧面皮革短版夾克-2-種顏色/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【Taste History 15% / 🏆 秋季最佳開襟衫】出品。簡約日常基本款開襟衫 - 9 種顏色可選（包郵）",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e12c856cb18f0de8d14980950cc0ff61.webp",
-        "url": "https://m.tw.slowand.com/product/🏆-秋季最佳開襟衫-包郵made-純色日常基本款開襟衫-9-種顏色/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "url": "https://m.tw.slowand.com/product/taste-history-15-🏆-秋季最佳開襟衫出品簡約日常基本款開襟衫-9-種顏色可選（包郵）/8215/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -33,10 +33,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Autumns Workwear 拉鍊夾克 - 2 種顏色",
-        "price": 2262,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/83873ab7b4754d96af904d0253869ba6.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費autumns-workwear-拉鍊夾克-2-種顏色/10845/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "name": "【選配款式享15折優惠/免運費】Made. 標誌性貼布拉鏈連帽衫 - 3種顏色可選",
+        "price": 1476,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
+        "url": "https://m.tw.slowand.com/product/選配款式享15折優惠免運費made-標誌性貼布拉鏈連帽衫-3種顏色可選/10847/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -49,6 +49,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【優質紗線/免運費】絲絨羊絨混紡羊毛開襟衫 - 4 種顏色（當日送達🚚）",
+        "price": 1643,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c293b55e135bf492d8d81fafab8d128c.webp",
+        "url": "https://m.tw.slowand.com/product/優質紗線免運費絲絨羊絨混紡羊毛開襟衫-4-種顏色（當日送達🚚）/10839/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【熱銷/包郵】Vardon 低領半高領風衣 - 3 色可選",
         "price": 1928,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/eb910db6706fcb1c858ceaf3616166c4.webp",
@@ -57,10 +65,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【選擇款式享15折優惠/免運費】Field Vintage 水洗野戰夾克 - 2種顏色可選（今日送達🚚）",
+        "name": "【當日送達🚚/免運費】Field Vintage 水洗野戰夾克 - 2 種顏色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/db960dad342298a61125a0ed07f61fe2.webp",
-        "url": "https://m.tw.slowand.com/product/選擇款式享15折優惠免運費field-vintage-水洗野戰夾克-2種顏色可選（今日送達🚚）/10821/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費field-vintage-水洗野戰夾克-2-種顏色/10821/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -69,14 +77,6 @@
         "price": 928,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/adc5f7b451ec81a4032a96923e8fdd76.webp",
         "url": "https://m.tw.slowand.com/product/免運費pintermood蕾絲疊穿開襟衫-3種顏色/10793/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【口味記錄 15%】出品。柔和秋季霧面皮革短版外套 - 2 色",
-        "price": 2262,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
-        "url": "https://m.tw.slowand.com/product/口味記錄-15出品柔和秋季霧面皮革短版外套-2-色/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -129,14 +129,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費】Made. 標誌性貼布拉鏈連帽衫 - 3 種顏色",
-        "price": 1476,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
-        "url": "https://m.tw.slowand.com/product/免運費made-標誌性貼布拉鏈連帽衫-3-種顏色/10847/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】Maniv 出品 Detail Field Blouson 短版外套 - 2 種顏色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/565f11904668cc9cefe9449bc6f79541.webp",
@@ -153,18 +145,50 @@
     },
     {
         "store": "Slowand",
-        "name": "【今日送達🚚】僅限Symbol Point精緻修身插肩開襟衫 - 5種顏色",
-        "price": 703,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b8bb6ace82b77052c9b12125cfa6d0a5.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚僅限symbol-point精緻修身插肩開襟衫-5種顏色/10379/category/24/display/1/",
+        "name": "Made. Mild 秋季霧面皮革短版夾克 - 2 種顏色",
+        "price": 2262,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
+        "url": "https://m.tw.slowand.com/product/made-mild-秋季霧面皮革短版夾克-2-種顏色/10785/category/24/display/1/",
         "is_new": true
     },
     {
         "store": "Slowand",
-        "name": "【🏆 秋季最佳開襟衫 / 包郵】Made. 純色日常基本款開襟衫 - 9 種顏色",
+        "name": "【限時特賣/回歸🍂】僅限 Ed Mono 簡約皮革外套（包郵）",
+        "price": 1738,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/b2fed365dc12a8f2e2f2761cff2f441e.webp",
+        "url": "https://m.tw.slowand.com/product/限時特賣回歸🍂僅限-ed-mono-簡約皮革外套（包郵）/10281/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【限時特賣/回歸🍂】僅限Eina花呢針織開襟衫 - 3種顏色（包郵）",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
+        "url": "https://m.tw.slowand.com/product/限時特賣回歸🍂僅限eina花呢針織開襟衫-3種顏色（包郵）/9790/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【Taste History 15% / 🏆 秋季最佳開襟衫】出品。簡約日常基本款開襟衫 - 9 種顏色可選（包郵）",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e12c856cb18f0de8d14980950cc0ff61.webp",
-        "url": "https://m.tw.slowand.com/product/🏆-秋季最佳開襟衫-包郵made-純色日常基本款開襟衫-9-種顏色/8215/category/24/display/1/",
+        "url": "https://m.tw.slowand.com/product/taste-history-15-🏆-秋季最佳開襟衫出品簡約日常基本款開襟衫-9-種顏色可選（包郵）/8215/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【單色偏好/公開販售】Binder Mono Check 外套（包郵）",
+        "price": 1900,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/9487d3c4c8204a35a1f8369eb18fd7d5.webp",
+        "url": "https://m.tw.slowand.com/product/單色偏好公開販售binder-mono-check-外套（包郵）/10870/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【高領細節/開業特賣】Mood Up 繫帶經典風衣 - 2 種顏色（包郵）",
+        "price": 2976,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/11a0f9fe39e3611ec6be93bf9a3e63c8.webp",
+        "url": "https://m.tw.slowand.com/product/高領細節開業特賣mood-up-繫帶經典風衣-2-種顏色（包郵）/10867/category/24/display/1/",
         "is_new": true
     },
     {
@@ -181,6 +205,14 @@
         "price": 2833,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/48d45fb3117a199e5eb1831b13677540.webp",
         "url": "https://m.tw.slowand.com/product/開幕特惠免運費愛丁堡半皮夾克-2-色可選/10854/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【選配款式享15折優惠/免運費】Made. 標誌性貼布拉鏈連帽衫 - 3種顏色可選",
+        "price": 1476,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
+        "url": "https://m.tw.slowand.com/product/選配款式享15折優惠免運費made-標誌性貼布拉鏈連帽衫-3種顏色可選/10847/category/24/display/1/",
         "is_new": true
     },
     {
@@ -233,42 +265,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【選擇款式享15折優惠/免運費】Field Vintage 水洗野戰夾克 - 2種顏色可選（今日送達🚚）",
+        "name": "【當日送達🚚/免運費】Field Vintage 水洗野戰夾克 - 2 種顏色",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/db960dad342298a61125a0ed07f61fe2.webp",
-        "url": "https://m.tw.slowand.com/product/選擇款式享15折優惠免運費field-vintage-水洗野戰夾克-2種顏色可選（今日送達🚚）/10821/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Kyven Deep Mood 野戰夾克 - 2 種顏色",
-        "price": 2119,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/b641fde8b5184a227e04a5f53735fcac.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費kyven-deep-mood-野戰夾克-2-種顏色/10815/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Isigny 翻領針織開襟衫 - 2 種顏色",
-        "price": 1238,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e190f6794deb9c7c11702d711852e9bc.webp",
-        "url": "https://m.tw.slowand.com/product/免運費isigny-翻領針織開襟衫-2-種顏色/10813/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Pintermood蕾絲疊穿開襟衫 - 3種顏色",
-        "price": 928,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/adc5f7b451ec81a4032a96923e8fdd76.webp",
-        "url": "https://m.tw.slowand.com/product/免運費pintermood蕾絲疊穿開襟衫-3種顏色/10793/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】復古水洗棉野戰夾克",
-        "price": 2619,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/8e424019ca0d2d2ebe25ea1d723c3d98.webp",
-        "url": "https://m.tw.slowand.com/product/免運費復古水洗棉野戰夾克/10787/category/24/display/1/",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費field-vintage-水洗野戰夾克-2-種顏色/10821/category/24/display/1/",
         "is_new": true
     }
 ]
