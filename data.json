@@ -97,6 +97,14 @@
     },
     {
         "store": "Slowand",
+        "name": "MUTEDESS基本款開衫 - 4顏色",
+        "price": 757,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202309/c5019c128b1f5f270d749e097317b396.webp",
+        "url": "https://m.tw.slowand.com/product/mutedess基本款開衫-4顏色/7820/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【今日夢想🚚】已完成。精緻內襯開襟衫 - 6 種顏色",
         "price": 902,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202509/29b68159bf6e9c4cee7ffab2a345da58.webp",
@@ -261,14 +269,6 @@
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/b641fde8b5184a227e04a5f53735fcac.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費kyven-deep-mood-野戰夾克-2-種顏色/10815/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Isigny 翻領針織開襟衫 - 2 種顏色",
-        "price": 1238,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e190f6794deb9c7c11702d711852e9bc.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費isigny-翻領針織開襟衫-2-種顏色/10813/category/24/display/1/",
         "is_new": true
     }
 ]
