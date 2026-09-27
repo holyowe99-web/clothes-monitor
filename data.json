@@ -9,6 +9,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【🍁中秋特惠】OV加厚柔軟開襟衫 - 4色可選",
+        "price": 1185,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/cd6a1bb011a4db665327c7b4cb783850.webp",
+        "url": "https://m.tw.slowand.com/product/🍁中秋特惠ov加厚柔軟開襟衫-4色可選/11104/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🍁中秋特賣/諮詢爆滿！ 】Made. Brooklyn 野戰夾克（男女通用）- 2 色可選（包郵）",
         "price": 1785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
@@ -61,14 +69,6 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
         "url": "https://m.tw.slowand.com/product/🍁中秋節促銷回歸🍂僅限eina斜紋針織開襟衫-3種顏色（包郵）/9790/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【🍁中秋特惠/當日送達🚚】僅限此款。簡約現代隱形門襟針織拉鍊衫 - 4 色可選（包郵）",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/0f8000b80b28fe9b218db6338071843e.webp",
-        "url": "https://m.tw.slowand.com/product/🍁中秋特惠當日送達🚚僅限此款簡約現代隱形門襟針織拉鍊衫-4-色可選（包郵）/9775/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -185,14 +185,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【🍁中秋特惠/免運費】Ame 復古水洗牛仔外套（當日送達🚚）",
-        "price": 1900,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/46264249ba18f7f0b27ce7f7083d5049.webp",
-        "url": "https://m.tw.slowand.com/product/🍁中秋特惠免運費ame-復古水洗牛仔外套（當日送達🚚）/11044/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🍁中秋特惠/免運費】訂製款。字母印花拉鍊連帽衫 - 3 種顏色",
         "price": 1476,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c6de9c75bfac79ec2caf150e378801a0.webp",
@@ -269,6 +261,14 @@
         "price": 2262,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/83873ab7b4754d96af904d0253869ba6.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費autumns-workwear-拉鍊夾克-2-種顏色/10845/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【當日送達🚚/免運費】Made. 高級絲絨皮革短夾克 - 2 種顏色",
+        "price": 2833,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/33b21e63e8d1ada8e57c4a8202199745.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費made-高級絲絨皮革短夾克-2-種顏色/10844/category/24/display/1/",
         "is_new": true
     }
 ]
