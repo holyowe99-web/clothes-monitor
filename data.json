@@ -185,6 +185,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費/當日送達🚚】Ame Vintage 水洗牛仔夾克",
+        "price": 1900,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/46264249ba18f7f0b27ce7f7083d5049.webp",
+        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚ame-vintage-水洗牛仔夾克/11044/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【免運費】Made. 標誌性字母拉鍊連帽衫 - 3 種顏色",
         "price": 1476,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c6de9c75bfac79ec2caf150e378801a0.webp",
@@ -261,14 +269,6 @@
         "price": 2262,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/83873ab7b4754d96af904d0253869ba6.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費autumns-workwear-拉鍊夾克-2-種顏色/10845/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Made. 高級絲絨皮革短夾克 - 2 種顏色",
-        "price": 2833,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/33b21e63e8d1ada8e57c4a8202199745.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費made-高級絲絨皮革短夾克-2-種顏色/10844/category/24/display/1/",
         "is_new": true
     }
 ]
