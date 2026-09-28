@@ -121,6 +121,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
+        "price": 1976,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/e639abd4baa9148386806874392a264f.webp",
+        "url": "https://m.tw.slowand.com/product/免運費true-detailer-水洗野戰夾克-2-種顏色/11105/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【免運費】亮面皮革短夾克 - 2 種顏色",
         "price": 2357,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/cff757e825a395c96248fc62c7667d7a.webp",
@@ -129,18 +137,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Made. Premium Fillmore 雙層風衣 - 2 種顏色",
-        "price": 3216,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/4bd69bba1656d4cb7248f9816812f54f.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費made-premium-fillmore-雙層風衣-2-種顏色/9632/category/24/display/1/",
+        "name": "【當日送達🚚/免運費】Isigny 翻領針織開襟衫 - 2 種顏色",
+        "price": 1238,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e190f6794deb9c7c11702d711852e9bc.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費isigny-翻領針織開襟衫-2-種顏色/10813/category/24/display/1/",
         "is_new": true
     },
     {
         "store": "Slowand",
-        "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
-        "price": 1976,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/e639abd4baa9148386806874392a264f.webp",
-        "url": "https://m.tw.slowand.com/product/免運費true-detailer-水洗野戰夾克-2-種顏色/11105/category/24/display/1/",
+        "name": "【當日送達🚚/免運費】Made. Premium Fillmore 雙層風衣 - 2 種顏色",
+        "price": 3216,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202508/4bd69bba1656d4cb7248f9816812f54f.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費made-premium-fillmore-雙層風衣-2-種顏色/9632/category/24/display/1/",
         "is_new": true
     },
     {
@@ -261,14 +269,6 @@
         "price": 2833,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/48d45fb3117a199e5eb1831b13677540.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費愛丁堡半皮夾克-2-種顏色/10854/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費/當日送達🚚】馬牌水洗細節處理工作夾克",
-        "price": 2214,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/3e430bc8d2d19bdcff6cb4eb4c1ea452.webp",
-        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚馬牌水洗細節處理工作夾克/10851/category/24/display/1/",
         "is_new": true
     }
 ]
