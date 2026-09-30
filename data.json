@@ -9,6 +9,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費/退貨🍂】僅限Eina花呢針織開襟衫 - 3種顏色",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
+        "url": "https://m.tw.slowand.com/product/免運費退貨🍂僅限eina花呢針織開襟衫-3種顏色/9790/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "OV出品的加厚柔軟開襟衫 - 4種顏色",
         "price": 1185,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/cd6a1bb011a4db665327c7b4cb783850.webp",
@@ -61,14 +69,6 @@
         "price": 2262,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/4500e2d77d731e543b500b823639fe5f.gif",
         "url": "https://m.tw.slowand.com/product/made-mild-秋季霧面皮革短版夾克-2-種顏色/10785/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費/退貨🍂】僅限Eina花呢針織開襟衫 - 3種顏色",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
-        "url": "https://m.tw.slowand.com/product/免運費退貨🍂僅限eina花呢針織開襟衫-3種顏色/9790/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,6 +141,22 @@
         "price": 1238,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e190f6794deb9c7c11702d711852e9bc.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費isigny-翻領針織開襟衫-2-種顏色/10813/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費/退貨🍂】僅限Eina花呢針織開襟衫 - 3種顏色",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
+        "url": "https://m.tw.slowand.com/product/免運費退貨🍂僅限eina花呢針織開襟衫-3種顏色/9790/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "報名表_服裝/購買",
+        "price": 1881,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/6e384c4434f5c7da63151f35efb79f80.webp",
+        "url": "https://m.tw.slowand.com/product/報名表服裝購買/11113/category/24/display/1/",
         "is_new": true
     },
     {
@@ -253,22 +269,6 @@
         "price": 2762,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/7598fcf6184b48ffc1a48ee5000f2be8.webp",
         "url": "https://m.tw.slowand.com/product/當日送達🚚免運費low-minimal-field-trench-coat-2-種顏色/10860/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】愛丁堡半皮夾克 - 2 種顏色",
-        "price": 2833,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/48d45fb3117a199e5eb1831b13677540.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費愛丁堡半皮夾克-2-種顏色/10854/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費/當日送達🚚】馬牌水洗細節處理工作夾克",
-        "price": 2214,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/3e430bc8d2d19bdcff6cb4eb4c1ea452.webp",
-        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚馬牌水洗細節處理工作夾克/10851/category/24/display/1/",
         "is_new": true
     }
 ]
