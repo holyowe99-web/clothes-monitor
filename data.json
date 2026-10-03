@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "【免運費/退貨🍂】僅限Eina花呢針織開襟衫 - 3種顏色",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
-        "url": "https://m.tw.slowand.com/product/免運費退貨🍂僅限eina花呢針織開襟衫-3種顏色/9790/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
         "price": 1976,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/af00c0576739eb2911a1dc6a17c025c0.webp",
@@ -73,6 +65,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費/退貨🍂】僅限Eina花呢針織開襟衫 - 3種顏色",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
+        "url": "https://m.tw.slowand.com/product/免運費退貨🍂僅限eina花呢針織開襟衫-3種顏色/9790/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🏆 秋季最佳開襟衫 / 包郵】Made. 純色日常基本款開襟衫 - 9 種顏色",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e12c856cb18f0de8d14980950cc0ff61.webp",
@@ -133,14 +133,6 @@
         "price": 2833,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1997cca38875c831866302aac4fd1b55.gif",
         "url": "https://m.tw.slowand.com/product/熱賣包郵divine-男士修身野戰夾克-3-種顏色可選/10876/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費/退貨🍂】僅限Eina花呢針織開襟衫 - 3種顏色",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1198bc4e3a6e51112925d76f6de43121.webp",
-        "url": "https://m.tw.slowand.com/product/免運費退貨🍂僅限eina花呢針織開襟衫-3種顏色/9790/category/24/display/1/",
         "is_new": true
     },
     {
@@ -269,6 +261,14 @@
         "price": 2976,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/11a0f9fe39e3611ec6be93bf9a3e63c8.webp",
         "url": "https://m.tw.slowand.com/product/高領設計免運費mood-up-繫帶經典風衣-2-色可選（當日送達🚚）/10867/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【當日送達🚚/免運費】Low Minimal Field Trench Coat - 2 種顏色",
+        "price": 2762,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/7598fcf6184b48ffc1a48ee5000f2be8.webp",
+        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費low-minimal-field-trench-coat-2-種顏色/10860/category/24/display/1/",
         "is_new": true
     }
 ]
