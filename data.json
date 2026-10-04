@@ -129,14 +129,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【熱賣/包郵】Divine 男士修身野戰夾克 - 3 種顏色可選",
-        "price": 2833,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1997cca38875c831866302aac4fd1b55.gif",
-        "url": "https://m.tw.slowand.com/product/熱賣包郵divine-男士修身野戰夾克-3-種顏色可選/10876/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "報名表_服裝/購買",
         "price": 1881,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/6e384c4434f5c7da63151f35efb79f80.webp",
@@ -229,6 +221,14 @@
         "price": 1476,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c6de9c75bfac79ec2caf150e378801a0.webp",
         "url": "https://m.tw.slowand.com/product/免運費made-標誌性字母拉鍊連帽衫-3-種顏色/10882/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【熱賣/包郵】Divine 男士修身野戰夾克 - 3 種顏色可選",
+        "price": 2833,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1997cca38875c831866302aac4fd1b55.gif",
+        "url": "https://m.tw.slowand.com/product/熱賣包郵divine-男士修身野戰夾克-3-種顏色可選/10876/category/24/display/1/",
         "is_new": true
     },
     {
