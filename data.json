@@ -17,22 +17,6 @@
     },
     {
         "store": "Slowand",
-        "name": "Made. Mute Delicate Fit Hairy Cardigan - 4 種顏色",
-        "price": 1333,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/d3a29929788175b3701dd4a1e1a72bf2.webp",
-        "url": "https://m.tw.slowand.com/product/made-mute-delicate-fit-hairy-cardigan-4-種顏色/10905/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Made. 標誌性貼布拉鏈連帽衫 - 3 種顏色",
-        "price": 1476,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
-        "url": "https://m.tw.slowand.com/product/免運費made-標誌性貼布拉鏈連帽衫-3-種顏色/10847/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
         "price": 1976,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/af00c0576739eb2911a1dc6a17c025c0.webp",
@@ -53,6 +37,22 @@
         "price": 2357,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/7de600320104f705ac2641ee57af2987.webp",
         "url": "https://m.tw.slowand.com/product/包裝熱銷made-wish-水洗風野夾克（外套）-2-色/11047/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "Made. Mute Delicate Fit Hairy Cardigan - 4 種顏色",
+        "price": 1333,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/d3a29929788175b3701dd4a1e1a72bf2.webp",
+        "url": "https://m.tw.slowand.com/product/made-mute-delicate-fit-hairy-cardigan-4-種顏色/10905/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】Made. 標誌性貼布拉鏈連帽衫 - 3 種顏色",
+        "price": 1476,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
+        "url": "https://m.tw.slowand.com/product/免運費made-標誌性貼布拉鏈連帽衫-3-種顏色/10847/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -129,6 +129,14 @@
     },
     {
         "store": "Slowand",
+        "name": "（展廳）【開幕九折/免運費】摩恩 (Moen) 博萊羅外套+針織衫套裝 - 3 種顏色可選",
+        "price": 1166,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c141c81fc65c461e7985fd59a2f4f3d8.webp",
+        "url": "https://m.tw.slowand.com/product/（展廳）開幕九折免運費摩恩-moen-博萊羅外套針織衫套裝-3-種顏色可選/11014/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【🏆 秋季最佳開襟衫 / 包郵】Made. 純色日常基本款開襟衫 - 9 種顏色",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e12c856cb18f0de8d14980950cc0ff61.webp",
@@ -145,18 +153,10 @@
     },
     {
         "store": "Slowand",
-        "name": "（展廳）【開幕九折/免運費】摩恩 (Moen) 博萊羅外套+針織衫套裝 - 3 種顏色可選",
-        "price": 1166,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c141c81fc65c461e7985fd59a2f4f3d8.webp",
-        "url": "https://m.tw.slowand.com/product/（展廳）開幕九折免運費摩恩-moen-博萊羅外套針織衫套裝-3-種顏色可選/11014/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "Made. Mute Delicate Fit Hairy Cardigan - 4 種顏色",
-        "price": 1333,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/d3a29929788175b3701dd4a1e1a72bf2.webp",
-        "url": "https://m.tw.slowand.com/product/made-mute-delicate-fit-hairy-cardigan-4-種顏色/10905/category/24/display/1/",
+        "name": "（展間）【開幕九折/免運費】Edmon 高級真皮夾克 - 4 色可選",
+        "price": 4119,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/509eef1e777cc5fa9e9e90c6bf04067f.gif",
+        "url": "https://m.tw.slowand.com/product/（展間）開幕九折免運費edmon-高級真皮夾克-4-色可選/10992/category/24/display/1/",
         "is_new": true
     },
     {
@@ -165,14 +165,6 @@
         "price": 1900,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/9487d3c4c8204a35a1f8369eb18fd7d5.webp",
         "url": "https://m.tw.slowand.com/product/單色免運費binder-mono-check-格紋短版外套（當日送達🚚）/10870/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Made. 標誌性貼布拉鏈連帽衫 - 3 種顏色",
-        "price": 1476,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
-        "url": "https://m.tw.slowand.com/product/免運費made-標誌性貼布拉鏈連帽衫-3-種顏色/10847/category/24/display/1/",
         "is_new": true
     },
     {
@@ -249,14 +241,6 @@
     },
     {
         "store": "Slowand",
-        "name": "（展間）【開幕九折/免運費】Edmon 高級真皮夾克 - 4 色可選",
-        "price": 4119,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/509eef1e777cc5fa9e9e90c6bf04067f.gif",
-        "url": "https://m.tw.slowand.com/product/（展間）開幕九折免運費edmon-高級真皮夾克-4-色可選/10992/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "Lowden 襯衫夾克 - 兩種尺寸",
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/2755e6fec0911d5f71305c5b1723404d.webp",
@@ -265,10 +249,26 @@
     },
     {
         "store": "Slowand",
+        "name": "Made. Mute Delicate Fit Hairy Cardigan - 4 種顏色",
+        "price": 1333,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/d3a29929788175b3701dd4a1e1a72bf2.webp",
+        "url": "https://m.tw.slowand.com/product/made-mute-delicate-fit-hairy-cardigan-4-種顏色/10905/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【免運費】Made. 標誌性字母拉鍊連帽衫 - 3 種顏色",
         "price": 1476,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/bb04f2df3abafaefc4202db84d56ceb8.webp",
         "url": "https://m.tw.slowand.com/product/免運費made-標誌性字母拉鍊連帽衫-3-種顏色/10882/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "由 Ardennes Half Coat 製造 - 2 種顏色",
+        "price": 2833,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/c376aef38e53976f0bf90729fb4cf3ad.webp",
+        "url": "https://m.tw.slowand.com/product/由-ardennes-half-coat-製造-2-種顏色/10881/category/24/display/1/",
         "is_new": true
     }
 ]
