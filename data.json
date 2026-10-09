@@ -9,6 +9,14 @@
     },
     {
         "store": "Slowand",
+        "name": "OV出品的加厚柔軟開襟衫 - 4種顏色",
+        "price": 1185,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/cd6a1bb011a4db665327c7b4cb783850.webp",
+        "url": "https://m.tw.slowand.com/product/ov出品的加厚柔軟開襟衫-4種顏色/11104/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "【熱賣! /包郵】布魯克林製造野戰夾克（男女通用）- 2 色可選",
         "price": 1785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
@@ -37,14 +45,6 @@
         "price": 1476,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1ceec49551d8f60c44b1abfddfb7849a.gif",
         "url": "https://m.tw.slowand.com/product/免運費made-標誌性貼布拉鏈連帽衫-3-種顏色/10847/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Field 復古水洗野戰夾克 - 2 種顏色",
-        "price": 2119,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/db960dad342298a61125a0ed07f61fe2.webp",
-        "url": "https://m.tw.slowand.com/product/免運費field-復古水洗野戰夾克-2-種顏色/10821/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -141,6 +141,14 @@
         "price": 4119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/509eef1e777cc5fa9e9e90c6bf04067f.gif",
         "url": "https://m.tw.slowand.com/product/（展間）開幕九折免運費edmon-高級真皮夾克-4-色可選/10992/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【基本款】柔軟標準版型開襟衫 - 4 種顏色",
+        "price": 1023,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/09132f273047bd2875bf9944f71de112.webp",
+        "url": "https://m.tw.slowand.com/product/基本款柔軟標準版型開襟衫-4-種顏色/10875/category/24/display/1/",
         "is_new": true
     },
     {
@@ -253,14 +261,6 @@
         "price": 2833,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/1997cca38875c831866302aac4fd1b55.gif",
         "url": "https://m.tw.slowand.com/product/熱賣包郵divine-男士修身野戰夾克-3-種顏色可選/10876/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【基本款】柔軟標準版型開襟衫 - 4 種顏色",
-        "price": 1023,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/09132f273047bd2875bf9944f71de112.webp",
-        "url": "https://m.tw.slowand.com/product/基本款柔軟標準版型開襟衫-4-種顏色/10875/category/24/display/1/",
         "is_new": true
     },
     {
