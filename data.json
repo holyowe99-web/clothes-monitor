@@ -209,14 +209,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費/當日送達🚚】Ame Vintage 水洗牛仔夾克",
-        "price": 1900,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/46264249ba18f7f0b27ce7f7083d5049.webp",
-        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚ame-vintage-水洗牛仔夾克/11044/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "由伯克希爾羊毛半毛衣製成 - 2 種顏色（3 盎司粘合）",
         "price": 4262,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/7eee0592b79597baa4c5f32c810f7f65.webp",
@@ -269,6 +261,14 @@
         "price": 1023,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/09132f273047bd2875bf9944f71de112.webp",
         "url": "https://m.tw.slowand.com/product/基本款柔軟標準版型開襟衫-4-種顏色/10875/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】亮面皮革短夾克 - 2 種顏色",
+        "price": 2357,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/cff757e825a395c96248fc62c7667d7a.webp",
+        "url": "https://m.tw.slowand.com/product/免運費亮面皮革短夾克-2-種顏色/10873/category/24/display/1/",
         "is_new": true
     }
 ]
