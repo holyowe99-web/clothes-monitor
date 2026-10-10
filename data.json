@@ -129,18 +129,18 @@
     },
     {
         "store": "Slowand",
-        "name": "【基本款】柔軟標準版型開襟衫 - 4 種顏色",
-        "price": 1023,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/09132f273047bd2875bf9944f71de112.webp",
-        "url": "https://m.tw.slowand.com/product/基本款柔軟標準版型開襟衫-4-種顏色/10875/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "建立註冊表單",
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/2a226a17c5aabf34e6b95f7b9a2a6db5.webp",
         "url": "https://m.tw.slowand.com/product/建立註冊表單/11124/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【基本款】柔軟標準版型開襟衫 - 4 種顏色",
+        "price": 1023,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/09132f273047bd2875bf9944f71de112.webp",
+        "url": "https://m.tw.slowand.com/product/基本款柔軟標準版型開襟衫-4-種顏色/10875/category/24/display/1/",
         "is_new": true
     },
     {
