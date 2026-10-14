@@ -1,18 +1,10 @@
 [
     {
         "store": "Slowand",
-        "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
-        "price": 1976,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/af00c0576739eb2911a1dc6a17c025c0.webp",
-        "url": "https://m.tw.slowand.com/product/免運費true-detailer-水洗野戰夾克-2-種顏色/11105/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【熱賣! /包郵】布魯克林製造野戰夾克（男女通用）- 2 色可選",
-        "price": 1785,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
-        "url": "https://m.tw.slowand.com/product/熱賣-包郵布魯克林製造野戰夾克（男女通用）-2-色可選/11094/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
+        "price": 1166,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
+        "url": "https://m.tw.slowand.com/product/已製作完成柔軟針織拉鍊連帽衫-3-種顏色/11022/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -29,6 +21,22 @@
         "price": 831,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/2a226a17c5aabf34e6b95f7b9a2a6db5.webp",
         "url": "https://m.tw.slowand.com/product/建立註冊表單/11124/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
+        "price": 1976,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/af00c0576739eb2911a1dc6a17c025c0.webp",
+        "url": "https://m.tw.slowand.com/product/免運費true-detailer-水洗野戰夾克-2-種顏色/11105/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【熱賣! /包郵】布魯克林製造野戰夾克（男女通用）- 2 色可選",
+        "price": 1785,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
+        "url": "https://m.tw.slowand.com/product/熱賣-包郵布魯克林製造野戰夾克（男女通用）-2-色可選/11094/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -61,14 +69,6 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/e9a09e5e1ad5e6e4cf99d248b3bdbe79.webp",
         "url": "https://m.tw.slowand.com/product/返現免運費僅限baskin多色寬鬆開衫-5種顏色/9862/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【免運費】Everywinter 輕便連帽保暖睡袋（附口袋！）- 3 種顏色可選",
-        "price": 805,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202510/8fd6c2f7d60982585fa5c2ee240f9b5e.webp",
-        "url": "https://m.tw.slowand.com/product/免運費everywinter-輕便連帽保暖睡袋（附口袋！）-3-種顏色可選/9823/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -121,34 +121,10 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
-        "price": 1976,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/af00c0576739eb2911a1dc6a17c025c0.webp",
-        "url": "https://m.tw.slowand.com/product/免運費true-detailer-水洗野戰夾克-2-種顏色/11105/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【熱賣! /包郵】布魯克林製造野戰夾克（男女通用）- 2 色可選",
-        "price": 1785,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
-        "url": "https://m.tw.slowand.com/product/熱賣-包郵布魯克林製造野戰夾克（男女通用）-2-色可選/11094/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
         "price": 1166,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
         "url": "https://m.tw.slowand.com/product/已製作完成柔軟針織拉鍊連帽衫-3-種顏色/11022/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【最受歡迎！ /免運費】柔軟皮革短版夾克 - 2 種顏色",
-        "price": 2119,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/51d59a18a1b1800581c11fb06968db85.gif",
-        "url": "https://m.tw.slowand.com/product/最受歡迎！-免運費柔軟皮革短版夾克-2-種顏色/10792/category/24/display/1/",
         "is_new": true
     },
     {
@@ -217,6 +193,14 @@
     },
     {
         "store": "Slowand",
+        "name": "【免運費】True Detailer 水洗野戰夾克 - 2 種顏色",
+        "price": 1976,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/af00c0576739eb2911a1dc6a17c025c0.webp",
+        "url": "https://m.tw.slowand.com/product/免運費true-detailer-水洗野戰夾克-2-種顏色/11105/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "OV出品的加厚柔軟開襟衫 - 4種顏色",
         "price": 1185,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/cd6a1bb011a4db665327c7b4cb783850.webp",
@@ -229,6 +213,14 @@
         "price": 1095,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/ffe0744d0bb5c9fb1a64f142b8de3ad2.webp",
         "url": "https://m.tw.slowand.com/product/費爾島北歐針織開襟衫/11100/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【熱賣! /包郵】布魯克林製造野戰夾克（男女通用）- 2 色可選",
+        "price": 1785,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
+        "url": "https://m.tw.slowand.com/product/熱賣-包郵布魯克林製造野戰夾克（男女通用）-2-色可選/11094/category/24/display/1/",
         "is_new": true
     },
     {
@@ -249,14 +241,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費/當日送達🚚】Ame Vintage 水洗牛仔夾克",
-        "price": 1900,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/46264249ba18f7f0b27ce7f7083d5049.webp",
-        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚ame-vintage-水洗牛仔夾克/11044/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "（展廳）【開幕九折/免運費】摩恩 (Moen) 博萊羅外套+針織衫套裝 - 3 種顏色可選",
         "price": 1166,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c141c81fc65c461e7985fd59a2f4f3d8.webp",
@@ -269,6 +253,22 @@
         "price": 4262,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/7eee0592b79597baa4c5f32c810f7f65.webp",
         "url": "https://m.tw.slowand.com/product/由伯克希爾羊毛半毛衣製成-2-種顏色（3-盎司粘合）/11003/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "（展間）【開幕九折/免運費】Edmon 高級真皮夾克 - 4 色可選",
+        "price": 4119,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/509eef1e777cc5fa9e9e90c6bf04067f.gif",
+        "url": "https://m.tw.slowand.com/product/（展間）開幕九折免運費edmon-高級真皮夾克-4-色可選/10992/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "Lowden 襯衫夾克 - 兩種尺寸",
+        "price": 2119,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/2755e6fec0911d5f71305c5b1723404d.webp",
+        "url": "https://m.tw.slowand.com/product/lowden-襯衫夾克-兩種尺寸/10927/category/24/display/1/",
         "is_new": true
     }
 ]
