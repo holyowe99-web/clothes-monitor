@@ -1,14 +1,6 @@
 [
     {
         "store": "Slowand",
-        "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
-        "price": 1166,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
-        "url": "https://m.tw.slowand.com/product/已製作完成柔軟針織拉鍊連帽衫-3-種顏色/11022/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【🏆 秋季最佳開襟衫 / 包郵】Made. 純色日常基本款開襟衫 - 9 種顏色",
         "price": 835,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202608/e12c856cb18f0de8d14980950cc0ff61.webp",
@@ -37,6 +29,14 @@
         "price": 1785,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/d62485aa67618facf7f0cc0b3ec4555c.gif",
         "url": "https://m.tw.slowand.com/product/熱賣-包郵布魯克林製造野戰夾克（男女通用）-2-色可選/11094/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
+        "price": 1166,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
+        "url": "https://m.tw.slowand.com/product/已製作完成柔軟針織拉鍊連帽衫-3-種顏色/11022/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -121,42 +121,10 @@
     },
     {
         "store": "Slowand",
-        "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
-        "price": 1166,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
-        "url": "https://m.tw.slowand.com/product/已製作完成柔軟針織拉鍊連帽衫-3-種顏色/11022/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "【今日夢想🚚/限量發售】僅限雪人軟扣針織拉鍊衫",
         "price": 1189,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202605/b7c513ab61b4053322512304a28e8e6e.webp",
         "url": "https://m.tw.slowand.com/product/今日夢想🚚限量發售僅限雪人軟扣針織拉鍊衫/10116/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【贈送包包活動/免運費】僅限蒙大拿拉鍊短外套+包包套裝 - 2種顏色（今日夢想🚚）",
-        "price": 1886,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202511/2502059df57f918e59aaf93e7aa4adf1.webp",
-        "url": "https://m.tw.slowand.com/product/贈送包包活動免運費僅限蒙大拿拉鍊短外套包包套裝-2種顏色（今日夢想🚚）/9860/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【今日送達🚚】限一件。單排扣針織開襟衫 - 3 種顏色",
-        "price": 1071,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/84d762144a5bd5b347dacbc4c0e32b9a.webp",
-        "url": "https://m.tw.slowand.com/product/今日送達🚚限一件單排扣針織開襟衫-3-種顏色/9795/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
-        "name": "【當日送達🚚/免運費】Anne 無領吊帶夾克 - 2 色",
-        "price": 1500,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/81d5e12cfbab2c898618ec1995d01f66.webp",
-        "url": "https://m.tw.slowand.com/product/當日送達🚚免運費anne-無領吊帶夾克-2-色/9672/category/24/display/1/",
         "is_new": true
     },
     {
@@ -241,6 +209,14 @@
     },
     {
         "store": "Slowand",
+        "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
+        "price": 1166,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
+        "url": "https://m.tw.slowand.com/product/已製作完成柔軟針織拉鍊連帽衫-3-種顏色/11022/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
         "name": "（展廳）【開幕九折/免運費】摩恩 (Moen) 博萊羅外套+針織衫套裝 - 3 種顏色可選",
         "price": 1166,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/c141c81fc65c461e7985fd59a2f4f3d8.webp",
@@ -269,6 +245,30 @@
         "price": 2119,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/2755e6fec0911d5f71305c5b1723404d.webp",
         "url": "https://m.tw.slowand.com/product/lowden-襯衫夾克-兩種尺寸/10927/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "Made. Mute Delicate Fit Hairy Cardigan - 4 種顏色",
+        "price": 1333,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/d3a29929788175b3701dd4a1e1a72bf2.webp",
+        "url": "https://m.tw.slowand.com/product/made-mute-delicate-fit-hairy-cardigan-4-種顏色/10905/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "Made. Roselle 男士加厚修身開襟衫 - 2 碼",
+        "price": 1662,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/8e678b81842e081e22c624635bd01373.gif",
+        "url": "https://m.tw.slowand.com/product/made-roselle-男士加厚修身開襟衫-2-碼/10886/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】Made. 標誌性字母拉鍊連帽衫 - 3 種顏色",
+        "price": 1476,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/bb04f2df3abafaefc4202db84d56ceb8.webp",
+        "url": "https://m.tw.slowand.com/product/免運費made-標誌性字母拉鍊連帽衫-3-種顏色/10882/category/24/display/1/",
         "is_new": true
     }
 ]
