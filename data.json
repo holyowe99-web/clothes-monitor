@@ -9,14 +9,6 @@
     },
     {
         "store": "Slowand",
-        "name": "建立註冊表單",
-        "price": 831,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/2a226a17c5aabf34e6b95f7b9a2a6db5.webp",
-        "url": "https://m.tw.slowand.com/product/建立註冊表單/11124/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
         "price": 1166,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
@@ -61,6 +53,14 @@
         "price": 805,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/e9a09e5e1ad5e6e4cf99d248b3bdbe79.webp",
         "url": "https://m.tw.slowand.com/product/返現免運費僅限baskin多色寬鬆開衫-5種顏色/9862/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】Everywinter 輕便連帽保暖睡袋（附口袋！）- 3 種顏色可選",
+        "price": 805,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202510/8fd6c2f7d60982585fa5c2ee240f9b5e.webp",
+        "url": "https://m.tw.slowand.com/product/免運費everywinter-輕便連帽保暖睡袋（附口袋！）-3-種顏色可選/9823/category/24/display/2/?icid=PRODUCT_LIST.product_listrecommend",
         "is_new": true
     },
     {
@@ -201,14 +201,6 @@
     },
     {
         "store": "Slowand",
-        "name": "【免運費/當日送達🚚】Ame Vintage 水洗牛仔夾克",
-        "price": 1900,
-        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202609/46264249ba18f7f0b27ce7f7083d5049.webp",
-        "url": "https://m.tw.slowand.com/product/免運費當日送達🚚ame-vintage-水洗牛仔夾克/11044/category/24/display/1/",
-        "is_new": true
-    },
-    {
-        "store": "Slowand",
         "name": "已製作完成。柔軟針織拉鍊連帽衫 - 3 種顏色",
         "price": 1166,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/62cf05f84dd0d8db2d2995c694727905.webp",
@@ -269,6 +261,14 @@
         "price": 3405,
         "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/b396bf40c4fed14772c792ceeee608cc.gif",
         "url": "https://m.tw.slowand.com/product/le-verre-保暖全天輕便羽絨外套-4-種顏色/10884/category/24/display/1/",
+        "is_new": true
+    },
+    {
+        "store": "Slowand",
+        "name": "【免運費】Made. 標誌性字母拉鍊連帽衫 - 3 種顏色",
+        "price": 1476,
+        "img": "https://cafe24img.poxo.com/anne2173/web/product/medium/202610/bb04f2df3abafaefc4202db84d56ceb8.webp",
+        "url": "https://m.tw.slowand.com/product/免運費made-標誌性字母拉鍊連帽衫-3-種顏色/10882/category/24/display/1/",
         "is_new": true
     }
 ]
